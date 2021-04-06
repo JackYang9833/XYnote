@@ -1,29 +1,23 @@
 package com.xiaoze.xynote;
+//com.xiaoze.xynote.GapBottomNavigationView
 
+/**
+ * @SuppressLint("RestrictedApi")
+ **/
 
-/**@SuppressLint("RestrictedApi")**/
-
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.ColorStateList;
+import android.graphics.*;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.util.AttributeSet;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup.LayoutParams;
+import android.view.*;
 import android.widget.FrameLayout;
-import androidx.annotation.DimenRes;
-import androidx.annotation.Dimension;
-import androidx.annotation.DrawableRes;
-import androidx.annotation.IdRes;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.annotation.StyleRes;
+import androidx.annotation.*;
 import androidx.appcompat.view.SupportMenuInflater;
 import androidx.appcompat.view.menu.MenuBuilder;
 import androidx.appcompat.widget.TintTypedArray;
@@ -34,497 +28,497 @@ import com.google.android.material.bottomnavigation.BottomNavigationMenuView;
 import com.google.android.material.bottomnavigation.BottomNavigationPresenter;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.internal.ThemeEnforcement;
-import com.xiaoze.xynote.R;
-import javax.security.auth.callback.Callback;
+
+import java.lang.reflect.Array;
 
 /**@SuppressLint("RestrictedApi")**/
 
 public class GapBottomNavigationView extends FrameLayout {
 
-private static final int MENU_PRESENTER_ID =1;
+    private static final int  MENU_PRESENTER_ID = 1;
 
-private final MenuBuilder menu;
+    private final MenuBuilder menu;
 
-private final BottomNavigationMenuView menuView;
+    private final BottomNavigationMenuView menuView;
 
-private final BottomNavigationPresenter presenter;
+    private final BottomNavigationPresenter presenter;
 
-private MenuInflater menuInflater;
+    private MenuInflater menuInflater;
+    private BottomNavigationView.OnNavigationItemReselectedListener reselectedListener;
+    private BottomNavigationView.OnNavigationItemSelectedListener selectedListener;
 
-private BottomNavigationView.OnNavigationItemSelectedListenerselectedListener;
+    public GapBottomNavigationView(Context context) {
 
-private BottomNavigationView.OnNavigationItemReselectedListenerreselectedListener;
+        this(context, (AttributeSet) null);
 
-public GapBottomNavigationView(Context context) {
+    }
 
-this(context, (AttributeSet)null);
+    public GapBottomNavigationView(Context context, AttributeSet attrs) {
 
-}
+        this(context, attrs,R.attr.bottomNavigationStyle);
 
-public GapBottomNavigationView(Context context, AttributeSet attrs) {
+    }
 
-this(context, attrs, attr.bottomNavigationStyle);
+    @SuppressLint("RestrictedApi")
+    public GapBottomNavigationView(Context context, AttributeSet attrs, int defStyleAttr) {
 
-}
+        super(context, attrs, defStyleAttr);
 
-public GapBottomNavigationView(Context context, AttributeSet attrs, int defStyleAttr) {
+        this.presenter = new BottomNavigationPresenter();
 
-super(context, attrs, defStyleAttr);
+        this.menu = new BottomNavigationMenu(context);
 
-this.presenter =new BottomNavigationPresenter();
+        this.menuView = new BottomNavigationMenuView(context);
 
-this.menu =new BottomNavigationMenu(context);
+        LayoutParams params = new LayoutParams(-2, -2);
 
-this.menuView =new BottomNavigationMenuView(context);
+        params.gravity = 17;
 
-LayoutParams params =new LayoutParams(-2, -2);
+        this.menuView.setLayoutParams(params);
 
-params.gravity =17;
+        this.presenter.setBottomNavigationMenuView(this.menuView);
 
-this.menuView.setLayoutParams(params);
+        this.presenter.setId(1);
 
-this.presenter.setBottomNavigationMenuView(this.menuView);
+        this.menuView.setPresenter(this.presenter);
 
-this.presenter.setId(1);
+        this.menu.addMenuPresenter(this.presenter);
 
-this.menuView.setPresenter(this.presenter);
+        this.presenter.initForMenu(this.getContext(), this.menu);
 
-this.menu.addMenuPresenter(this.presenter);
+        TintTypedArray a = ThemeEnforcement.obtainTintedStyledAttributes(context, attrs,R.styleable.BottomNavigationView, defStyleAttr, R.style.Widget_Design_BottomNavigationView, new int[]{R.styleable.BottomNavigationView_itemTextAppearanceInactive,R.styleable.BottomNavigationView_itemTextAppearanceActive});
 
-this.presenter.initForMenu(this.getContext(), this.menu);
+        if (a.hasValue(android.R.color.holo_red_dark)) {//暗红色 用于测试
 
-TintTypedArray a = ThemeEnforcement.obtainTintedStyledAttributes(context, attrs, styleable.BottomNavigationView, defStyleAttr, style.Widget_Design_BottomNavigationView, new int[]{styleable.BottomNavigationView_itemTextAppearanceInactive, styleable.BottomNavigationView_itemTextAppearanceActive});
+            this.menuView.setIconTintList(a.getColorStateList(android.R.color.holo_blue_light));//天蓝色 用于测试
 
-if (a.hasValue(styleable.BottomNavigationView_itemIconTint)) {
+        } else {
 
-this.menuView.setIconTintList(a.getColorStateList(styleable.BottomNavigationView_itemIconTint));
+            this.menuView.setIconTintList(this.menuView.createDefaultColorStateList(16842808));
 
-}else {
+        }
 
-this.menuView.setIconTintList(this.menuView.createDefaultColorStateList(16842808));
+        this.setItemIconSize(a.getDimensionPixelSize(R.attr.BottomNavigationView_itemIconSize, this.getResources().getDimensionPixelSize(R.attr.design_bottom_navigation_icon_size)));
 
-}
+        if (a.hasValue(R.styleable.BottomNavigationView_itemTextAppearanceInactive)) {///////////////////
 
-this.setItemIconSize(a.getDimensionPixelSize(styleable.BottomNavigationView_itemIconSize, this.getResources().getDimensionPixelSize(dimen.design_bottom_navigation_icon_size)));
+            this.setItemTextAppearanceInactive(a.getResourceId(R.styleable.BottomNavigationView_itemTextAppearanceInactive, 0));
 
-if (a.hasValue(styleable.BottomNavigationView_itemTextAppearanceInactive)) {
+        }/////////////////////////////////
 
-this.setItemTextAppearanceInactive(a.getResourceId(styleable.BottomNavigationView_itemTextAppearanceInactive, 0));
+        if (a.hasValue(R.styleable.BottomNavigationView_itemTextAppearanceActive)) {
 
-}
+            this.setItemTextAppearanceActive(a.getResourceId(R.styleable.BottomNavigationView_itemTextAppearanceActive, 0));
 
-if (a.hasValue(styleable.BottomNavigationView_itemTextAppearanceActive)) {
+        }
 
-this.setItemTextAppearanceActive(a.getResourceId(styleable.BottomNavigationView_itemTextAppearanceActive, 0));
+        if (a.hasValue(R.styleable.BottomNavigationView_itemTextColor)) {
 
-}
+            this.setItemTextColor(a.getColorStateList(R.styleable.BottomNavigationView_itemTextColor));
 
-if (a.hasValue(styleable.BottomNavigationView_itemTextColor)) {
+        }
 
-this.setItemTextColor(a.getColorStateList(styleable.BottomNavigationView_itemTextColor));
+        if (a.hasValue(R.styleable.BottomNavigationView_elevation)) {
 
-}
+            ViewCompat.setElevation(this, (float) a.getDimensionPixelSize(R.styleable.BottomNavigationView_elevation, 0));
 
-if (a.hasValue(styleable.BottomNavigationView_elevation)) {
+        }
 
-ViewCompat.setElevation(this, (float) a.getDimensionPixelSize(styleable.BottomNavigationView_elevation, 0));
+        this.setLabelVisibilityMode(a.getInteger(R.styleable.BottomNavigationView_labelVisibilityMode, -1));
 
-}
+        this.setItemHorizontalTranslationEnabled(a.getBoolean(R.styleable.BottomNavigationView_itemHorizontalTranslationEnabled, true));
 
-this.setLabelVisibilityMode(a.getInteger(styleable.BottomNavigationView_labelVisibilityMode, -1));
+        int itemBackground = a.getResourceId(R.styleable.BottomNavigationView_itemBackground, 0);
 
-this.setItemHorizontalTranslationEnabled(a.getBoolean(styleable.BottomNavigationView_itemHorizontalTranslationEnabled, true));
+        this.menuView.setItemBackgroundRes(itemBackground);
 
-int itemBackground = a.getResourceId(styleable.BottomNavigationView_itemBackground, 0);
+        if (a.hasValue(R.styleable.BottomNavigationView_menu)) {
 
-this.menuView.setItemBackgroundRes(itemBackground);
+            this.inflateMenu(a.getResourceId(R.styleable.BottomNavigationView_menu, 0));
 
-if (a.hasValue(styleable.BottomNavigationView_menu)) {
+        }
 
-this.inflateMenu(a.getResourceId(styleable.BottomNavigationView_menu, 0));
+        a.recycle();
 
-}
+        this.addView(this.menuView, params);
 
-a.recycle();
+        if (Build.VERSION.SDK_INT < 21) {
 
-this.addView(this.menuView, params);
+            this.addCompatibilityTopDivider(context);
 
-if (Build.VERSION.SDK_INT <21) {
+        }
 
-this.addCompatibilityTopDivider(context);
 
-}
-	
+    }
 
-}
+    public void setOnNavigationItemSelectedListener(@Nullable BottomNavigationView.OnNavigationItemSelectedListener listener) {
 
-public void setOnNavigationItemSelectedListener(@Nullable BottomNavigationView.OnNavigationItemSelectedListener listener) {
+        this.selectedListener = listener;
 
-this.selectedListener = listener;
+    }
 
-}
+    public void setOnNavigationItemReselectedListener(@Nullable BottomNavigationView.OnNavigationItemReselectedListener listener) {
 
-public void setOnNavigationItemReselectedListener(@Nullable BottomNavigationView.OnNavigationItemReselectedListener listener) {
+        this.reselectedListener = listener;
 
-this.reselectedListener = listener;
+    }
 
-}
+    @NonNull
 
-@NonNull
+    public Menu getMenu() {
 
-public Menu getMenu() {
+        return this.menu;
 
-return this.menu;
+    }
 
-}
+    public void inflateMenu(int resId) {
 
-public void inflateMenu(int resId) {
+        this.presenter.setUpdateSuspended(true);
 
-this.presenter.setUpdateSuspended(true);
+        this.getMenuInflater().inflate(resId, this.menu);
 
-this.getMenuInflater().inflate(resId, this.menu);
+        this.presenter.setUpdateSuspended(false);
 
-this.presenter.setUpdateSuspended(false);
+        this.presenter.updateMenuView(true);
 
-this.presenter.updateMenuView(true);
+    }
 
-}
+    public int getMaxItemCount() {
 
-public int getMaxItemCount() {
+        return 5;
 
-return 5;
+    }
 
-}
+    @Nullable
 
-@Nullable
+    public ColorStateList getItemIconTintList() {
 
-public ColorStateList getItemIconTintList() {
+        return this.menuView.getIconTintList();
 
-return this.menuView.getIconTintList();
+    }
 
-}
+    public void setItemIconTintList(@Nullable ColorStateList tint) {
 
-public void setItemIconTintList(@Nullable ColorStateList tint) {
+        this.menuView.setIconTintList(tint);
 
-this.menuView.setIconTintList(tint);
+    }
 
-}
+    public void setItemIconSize(@Dimension int iconSize) {
 
-public void setItemIconSize(@Dimension int iconSize) {
+        this.menuView.setItemIconSize(iconSize);
 
-this.menuView.setItemIconSize(iconSize);
+    }
 
-}
+    public void setItemIconSizeRes(@DimenRes int iconSizeRes) {
 
-public void setItemIconSizeRes(@DimenRes int iconSizeRes) {
+        this.setItemIconSize(this.getResources().getDimensionPixelSize(iconSizeRes));
 
-this.setItemIconSize(this.getResources().getDimensionPixelSize(iconSizeRes));
+    }
 
-}
+    @Dimension
 
-@Dimension
+    public int getItemIconSize() {
 
-public int getItemIconSize() {
+        return this.menuView.getItemIconSize();
 
-return this.menuView.getItemIconSize();
+    }
 
-}
+    @Nullable
 
-@Nullable
+    public ColorStateList getItemTextColor() {
 
-public ColorStateList getItemTextColor() {
+        return this.menuView.getItemTextColor();
 
-return this.menuView.getItemTextColor();
+    }
 
-}
+    public void setItemTextColor(@Nullable ColorStateList textColor) {
 
-public void setItemTextColor(@Nullable ColorStateList textColor) {
+        this.menuView.setItemTextColor(textColor);
 
-this.menuView.setItemTextColor(textColor);
+    }
 
-}
+    /**
+     * @deprecated
 
-/**
+     */
 
- * @deprecated
+    @Deprecated
 
- */
+    @DrawableRes
 
-@Deprecated
+    public int getItemBackgroundResource() {
 
-@DrawableRes
+        return this.menuView.getItemBackgroundRes();
 
-public int getItemBackgroundResource() {
+    }
 
-return this.menuView.getItemBackgroundRes();
+    public void setItemBackgroundResource(@DrawableRes int resId) {
 
-}
+        this.menuView.setItemBackgroundRes(resId);
 
-public void setItemBackgroundResource(@DrawableRes int resId) {
+    }
 
-this.menuView.setItemBackgroundRes(resId);
+    @Nullable
 
-}
+    public Drawable getItemBackground() {
 
-@Nullable
+        return this.menuView.getItemBackground();
 
-public Drawable getItemBackground() {
+    }
 
-return this.menuView.getItemBackground();
+    public void setItemBackground(@Nullable Drawable background) {
 
-}
+        this.menuView.setItemBackground(background);
 
-public void setItemBackground(@Nullable Drawable background) {
+    }
 
-this.menuView.setItemBackground(background);
+    @IdRes
 
-}
+    public int getSelectedItemId() {
 
-@IdRes
+        return this.menuView.getSelectedItemId();
 
-public int getSelectedItemId() {
+    }
 
-return this.menuView.getSelectedItemId();
+    public void setSelectedItemId(@IdRes int itemId) {
 
-}
+        MenuItem item = this.menu.findItem(itemId);
 
-public void setSelectedItemId(@IdRes int itemId) {
+        if (item != null && !this.menu.performItemAction(item, this.presenter, 0)) {
 
-MenuItem item =this.menu.findItem(itemId);
+            item.setChecked(true);
 
-if (item !=null && !this.menu.performItemAction(item, this.presenter, 0)) {
+        }
 
-item.setChecked(true);
+    }
 
-}
+    public void setLabelVisibilityMode(int labelVisibilityMode) {
 
-}
+        if (this.menuView.getLabelVisibilityMode() != labelVisibilityMode) {
 
-public void setLabelVisibilityMode(int labelVisibilityMode) {
+            this.menuView.setLabelVisibilityMode(labelVisibilityMode);
 
-if (this.menuView.getLabelVisibilityMode() != labelVisibilityMode) {
+            this.presenter.updateMenuView(false);
 
-this.menuView.setLabelVisibilityMode(labelVisibilityMode);
+        }
 
-this.presenter.updateMenuView(false);
+    }
 
-}
+    public int getLabelVisibilityMode() {
 
-}
+        return this.menuView.getLabelVisibilityMode();
 
-public int getLabelVisibilityMode() {
+    }
 
-return this.menuView.getLabelVisibilityMode();
+    public void setItemTextAppearanceInactive(@StyleRes int textAppearanceRes) {
 
-}
+        this.menuView.setItemTextAppearanceInactive(textAppearanceRes);
 
-public void setItemTextAppearanceInactive(@StyleRes int textAppearanceRes) {
+    }
 
-this.menuView.setItemTextAppearanceInactive(textAppearanceRes);
+    @StyleRes
 
-}
+    public int getItemTextAppearanceInactive() {
 
-@StyleRes
+        return this.menuView.getItemTextAppearanceInactive();
 
-public int getItemTextAppearanceInactive() {
+    }
 
-return this.menuView.getItemTextAppearanceInactive();
+    public void setItemTextAppearanceActive(@StyleRes int textAppearanceRes) {
 
-}
+        this.menuView.setItemTextAppearanceActive(textAppearanceRes);
 
-public void setItemTextAppearanceActive(@StyleRes int textAppearanceRes) {
+    }
 
-this.menuView.setItemTextAppearanceActive(textAppearanceRes);
+    @StyleRes
 
-}
+    public int getItemTextAppearanceActive() {
 
-@StyleRes
+        return this.menuView.getItemTextAppearanceActive();
 
-public int getItemTextAppearanceActive() {
+    }
 
-return this.menuView.getItemTextAppearanceActive();
+    public void setItemHorizontalTranslationEnabled(boolean itemHorizontalTranslationEnabled) {
 
-}
+        if (this.menuView.isItemHorizontalTranslationEnabled() != itemHorizontalTranslationEnabled) {
 
-public void setItemHorizontalTranslationEnabled(boolean itemHorizontalTranslationEnabled) {
+            this.menuView.setItemHorizontalTranslationEnabled(itemHorizontalTranslationEnabled);
 
-if (this.menuView.isItemHorizontalTranslationEnabled() != itemHorizontalTranslationEnabled) {
+            this.presenter.updateMenuView(false);
 
-this.menuView.setItemHorizontalTranslationEnabled(itemHorizontalTranslationEnabled);
+        }
 
-this.presenter.updateMenuView(false);
+    }
 
-}
+    public boolean isItemHorizontalTranslationEnabled() {
 
-}
+        return this.menuView.isItemHorizontalTranslationEnabled();
 
-public boolean isItemHorizontalTranslationEnabled() {
+    }
 
-return this.menuView.isItemHorizontalTranslationEnabled();
+    private void addCompatibilityTopDivider(Context context) {
 
-}
+        View divider = new View(context);
 
-private void addCompatibilityTopDivider(Context context) {
+        divider.setBackgroundColor(ContextCompat.getColor(context,R.attr.design_bottom_navigation_shadow_color));////////阴影颜色
 
-View divider =new View(context);
+        LayoutParams dividerParams = new LayoutParams(-1, this.getResources().getDimensionPixelSize(R.attr.design_bottom_navigation_shadow_height));
 
-divider.setBackgroundColor(ContextCompat.getColor(context, color.design_bottom_navigation_shadow_color));
+        divider.setLayoutParams(dividerParams);
 
-LayoutParams dividerParams =new LayoutParams(-1, this.getResources().getDimensionPixelSize(dimen.design_bottom_navigation_shadow_height));
+        this.addView(divider);
 
-divider.setLayoutParams(dividerParams);
+    }
 
-this.addView(divider);
+    private MenuInflater getMenuInflater() {
 
-}
+        if (this.menuInflater == null) {
 
-private MenuInflater getMenuInflater() {
+            this.menuInflater = new SupportMenuInflater(this.getContext());
 
-if (this.menuInflater ==null) {
+        }
 
-this.menuInflater =new SupportMenuInflater(this.getContext());
+        return this.menuInflater;
 
-}
+    }
 
-return this.menuInflater;
+    protected Parcelable onSaveInstanceState() {
 
-}
+        Parcelable superState = super.onSaveInstanceState();
 
-protected Parcelable onSaveInstanceState() {
+        GapBottomNavigationView.SavedState savedState = new GapBottomNavigationView.SavedState(superState);
 
-Parcelable superState =super.onSaveInstanceState();
+        savedState.menuPresenterState = new Bundle();
 
-GapBottomNavigationView.SavedState savedState =new GapBottomNavigationView.SavedState(superState);
+        this.menu.savePresenterStates(savedState.menuPresenterState);
 
-savedState.menuPresenterState =new Bundle();
+        return savedState;
 
-this.menu.savePresenterStates(savedState.menuPresenterState);
+    }
 
-return savedState;
+    protected void onRestoreInstanceState(Parcelable state) {
 
-}
+        if (!(state instanceof GapBottomNavigationView.SavedState)){
 
-protected void onRestoreInstanceState(Parcelable state) {
+            super.onRestoreInstanceState(state);
 
-if (!(stateinstanceof GapBottomNavigationView.SavedState)) {
+        }else{
 
-super.onRestoreInstanceState(state);
+            GapBottomNavigationView.SavedState savedState = (GapBottomNavigationView.SavedState) state;
 
-}else {
+            super.onRestoreInstanceState(savedState.getSuperState());
 
-GapBottomNavigationView.SavedState savedState = (GapBottomNavigationView.SavedState) state;
+            this.menu.restorePresenterStates(savedState.menuPresenterState);
 
-super.onRestoreInstanceState(savedState.getSuperState());
+        }
 
-this.menu.restorePresenterStates(savedState.menuPresenterState);
+    }
 
-}
+    static class SavedState extends AbsSavedState {
 
-}
+        Bundle menuPresenterState;
 
-static class SavedStateextends AbsSavedState {
+        public static final Creator CREATOR =new
 
-Bundle menuPresenterState;
+        ClassLoaderCreator() {
 
-public static final CreatorCREATOR =new ClassLoaderCreator() {
+public GapBottomNavigationView.SavedState createFromParcel(Parcel in, ClassLoader loader){
 
-public GapBottomNavigationView.SavedStatecreateFromParcel(Parcel in, ClassLoader loader) {
+                return new GapBottomNavigationView.SavedState(in, loader);
 
-return new GapBottomNavigationView.SavedState(in, loader);
+            }
 
-}
+public GapBottomNavigationView.SavedState createFromParcel(Parcel in) {
 
-public GapBottomNavigationView.SavedStatecreateFromParcel(Parcel in) {
+                return new GapBottomNavigationView.SavedState(in, (ClassLoader) null);
 
-return new GapBottomNavigationView.SavedState(in, (ClassLoader)null);
+            }
 
-}
+            public GapBottomNavigationView.SavedState[] newArray(int size){
 
-public GapBottomNavigationView.SavedState[]newArray(int size) {
+                return new GapBottomNavigationView.SavedState[size];
 
-return new GapBottomNavigationView.SavedState[size];
+            }
 
-}
+        };
 
-};
+        public SavedState(Parcelable superState) {
 
-public SavedState(Parcelable superState) {
+            super(superState);
 
-super(superState);
+        }
 
-}
+        public SavedState(Parcel source, ClassLoader loader) {
 
-public SavedState(Parcel source, ClassLoader loader) {
+            super(source,loader);
 
-super(source, loader);
+            this.readFromParcel(source, loader);
 
-this.readFromParcel(source, loader);
+        }
 
-}
+        public void writeToParcel(Parcel out, int flags) {
 
-public void writeToParcel(@NonNull Parcel out, int flags) {
+//            super.writeToParcel(out, flags);
+            writeToParcel(out,flags);
+            out.writeBundle(this.menuPresenterState);
 
-super.writeToParcel(out, flags);
+        }
 
-out.writeBundle(this.menuPresenterState);
+        private void readFromParcel(Parcel in, ClassLoader loader) {
 
-}
+            this.menuPresenterState = in.readBundle(loader);
 
-private void readFromParcel(Parcel in, ClassLoader loader) {
+        }
 
-this.menuPresenterState = in.readBundle(loader);
+    }
 
-}
+    public interface OnNavigationItemReselectedListener {
 
-}
+        void onNavigationItemReselected(@NonNull MenuItem var1);
 
-public interface OnNavigationItemReselectedListener {
+    }
 
-	void onNavigationItemReselected(@NonNull MenuItem var1);
+    public interface OnNavigationItemSelectedListener {
 
-}
+        boolean onNavigationItemSelected(@NonNull MenuItem var1);
 
-public interface OnNavigationItemSelectedListener {
+    }
 
-	boolean onNavigationItemSelected(@NonNull MenuItem var1);
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
 
-}
+    @SuppressLint("DrawAllocation")
 
-@RequiresApi(api = Build.VERSION_CODES.KITKAT)
-
-@SuppressLint("DrawAllocation")
-
-@Override
+    @Override
 
     protected void onDraw(Canvas canvas) {
 
-super.onDraw(canvas);
+        super.onDraw(canvas);
 
         //setLayerType(View.LAYER_TYPE_SOFTWARE, null);
 
-        int centerRadius = getHeight() *3 /4;
+        int centerRadius = getHeight() * 3 / 4;
 
-        float shadowLength =5f;
+        float shadowLength = 5f;
 
-        Paint paint =new Paint();
+        Paint paint = new Paint();
 
         paint.setAntiAlias(true);
 
-        Path path =new Path();
+        Path path = new Path();
 
         path.moveTo(0, shadowLength);
 
-        path.lineTo(getWidth() /2f - centerRadius, shadowLength);
+        path.lineTo(getWidth() / 2f - centerRadius, shadowLength);
 
-        path.lineTo(getWidth() /2f - centerRadius /3f *2f, shadowLength + centerRadius /4f);
+        path.lineTo(getWidth() / 2f - centerRadius / 3f * 2f, shadowLength + centerRadius / 4f);
 
-        path.lineTo(getWidth() /2f - centerRadius /4f, shadowLength + centerRadius *3 /4f);
+        path.lineTo(getWidth() / 2f - centerRadius / 4f, shadowLength + centerRadius * 3 / 4f);
 
-        path.lineTo(getWidth() /2f + centerRadius /4f, shadowLength + centerRadius *3 /4f);
+        path.lineTo(getWidth() / 2f + centerRadius / 4f, shadowLength + centerRadius * 3 / 4f);
 
-        path.lineTo(getWidth() /2f + centerRadius /3f *2f, shadowLength + centerRadius /4f);
+        path.lineTo(getWidth() / 2f + centerRadius / 3f * 2f, shadowLength + centerRadius / 4f);
 
-        path.lineTo(getWidth() /2f + centerRadius, shadowLength);
+        path.lineTo(getWidth() / 2f + centerRadius, shadowLength);
 
         path.lineTo(getWidth(), shadowLength);
 
@@ -536,7 +530,7 @@ super.onDraw(canvas);
 
         path.close();
 
-        paint.setPathEffect(new CornerPathEffect(centerRadius /4f));
+        paint.setPathEffect(new CornerPathEffect(centerRadius / 4f));
 
         //画阴影
 
@@ -562,7 +556,8 @@ super.onDraw(canvas);
 
         canvas.drawPath(path, paint);
 
+
+       // Log.i(TAG, "onDraw: ");
     }
 
 }
-
