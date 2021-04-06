@@ -5402,39 +5402,39 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.mycompany.myapp:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.mycompany.myapp:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.mycompany.myapp:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.mycompany.myapp:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.mycompany.myapp:contentInsetEndWithActions}</code></td><td> Minimum inset for content views within a bar when actions from a menu
+           <tr><td><code>{@link #ActionBar_background com.xiaoze.xynote:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.xiaoze.xynote:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.xiaoze.xynote:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.xiaoze.xynote:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.xiaoze.xynote:contentInsetEndWithActions}</code></td><td> Minimum inset for content views within a bar when actions from a menu
              are present.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.mycompany.myapp:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.mycompany.myapp:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.mycompany.myapp:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.mycompany.myapp:contentInsetStartWithNavigation}</code></td><td> Minimum inset for content views within a bar when a navigation button
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.xiaoze.xynote:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.xiaoze.xynote:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.xiaoze.xynote:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.xiaoze.xynote:contentInsetStartWithNavigation}</code></td><td> Minimum inset for content views within a bar when a navigation button
              is present, such as the Up button.</td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.mycompany.myapp:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.mycompany.myapp:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.mycompany.myapp:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #ActionBar_height com.mycompany.myapp:height}</code></td><td> Specifies a fixed height.</td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.mycompany.myapp:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.mycompany.myapp:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.mycompany.myapp:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.mycompany.myapp:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.mycompany.myapp:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.mycompany.myapp:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.xiaoze.xynote:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.xiaoze.xynote:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.xiaoze.xynote:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #ActionBar_height com.xiaoze.xynote:height}</code></td><td> Specifies a fixed height.</td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.xiaoze.xynote:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.xiaoze.xynote:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.xiaoze.xynote:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.xiaoze.xynote:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.xiaoze.xynote:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.xiaoze.xynote:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
              system-provided items in the bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.mycompany.myapp:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.mycompany.myapp:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.mycompany.myapp:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #ActionBar_logo com.xiaoze.xynote:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.xiaoze.xynote:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.xiaoze.xynote:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.mycompany.myapp:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.mycompany.myapp:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.mycompany.myapp:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.mycompany.myapp:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionBar_title com.mycompany.myapp:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.mycompany.myapp:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.xiaoze.xynote:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.xiaoze.xynote:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.xiaoze.xynote:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.xiaoze.xynote:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionBar_title com.xiaoze.xynote:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.xiaoze.xynote:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -5485,7 +5485,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:background
+          @attr name com.xiaoze.xynote:background
         */
         public static final int ActionBar_background = 10;
         /**
@@ -5499,7 +5499,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundSplit
+          @attr name com.xiaoze.xynote:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
@@ -5513,7 +5513,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundStacked
+          @attr name com.xiaoze.xynote:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
@@ -5532,7 +5532,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetEnd
+          @attr name com.xiaoze.xynote:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
@@ -5551,7 +5551,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetEndWithActions
+          @attr name com.xiaoze.xynote:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
@@ -5570,7 +5570,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetLeft
+          @attr name com.xiaoze.xynote:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
@@ -5589,7 +5589,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetRight
+          @attr name com.xiaoze.xynote:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
@@ -5608,7 +5608,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetStart
+          @attr name com.xiaoze.xynote:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
@@ -5627,7 +5627,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetStartWithNavigation
+          @attr name com.xiaoze.xynote:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
@@ -5639,7 +5639,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:customNavigationLayout
+          @attr name com.xiaoze.xynote:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
@@ -5663,7 +5663,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:displayOptions
+          @attr name com.xiaoze.xynote:displayOptions
         */
         public static final int ActionBar_displayOptions = 4;
         /**
@@ -5675,7 +5675,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:divider
+          @attr name com.xiaoze.xynote:divider
         */
         public static final int ActionBar_divider = 9;
         /**
@@ -5693,7 +5693,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
@@ -5711,7 +5711,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:height
+          @attr name com.xiaoze.xynote:height
         */
         public static final int ActionBar_height = 1;
         /**
@@ -5727,7 +5727,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:hideOnContentScroll
+          @attr name com.xiaoze.xynote:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
@@ -5739,7 +5739,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:homeAsUpIndicator
+          @attr name com.xiaoze.xynote:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
@@ -5751,7 +5751,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:homeLayout
+          @attr name com.xiaoze.xynote:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
@@ -5765,7 +5765,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:icon
+          @attr name com.xiaoze.xynote:icon
         */
         public static final int ActionBar_icon = 0;
         /**
@@ -5777,7 +5777,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:indeterminateProgressStyle
+          @attr name com.xiaoze.xynote:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
@@ -5796,7 +5796,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:itemPadding
+          @attr name com.xiaoze.xynote:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
@@ -5808,7 +5808,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:logo
+          @attr name com.xiaoze.xynote:logo
         */
         public static final int ActionBar_logo = 8;
         /**
@@ -5828,7 +5828,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>tabMode</code></td><td>2</td><td> The action bar will use a series of horizontal tabs for navigation. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:navigationMode
+          @attr name com.xiaoze.xynote:navigationMode
         */
         public static final int ActionBar_navigationMode = 3;
         /**
@@ -5841,7 +5841,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:popupTheme
+          @attr name com.xiaoze.xynote:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
@@ -5859,7 +5859,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:progressBarPadding
+          @attr name com.xiaoze.xynote:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
@@ -5871,7 +5871,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:progressBarStyle
+          @attr name com.xiaoze.xynote:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
@@ -5887,7 +5887,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subtitle
+          @attr name com.xiaoze.xynote:subtitle
         */
         public static final int ActionBar_subtitle = 5;
         /**
@@ -5899,7 +5899,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subtitleTextStyle
+          @attr name com.xiaoze.xynote:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 7;
         /**
@@ -5915,7 +5915,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:title
+          @attr name com.xiaoze.xynote:title
         */
         public static final int ActionBar_title = 2;
         /**
@@ -5927,7 +5927,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleTextStyle
+          @attr name com.xiaoze.xynote:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 6;
         /** Attributes that can be used with a ActionBarLayout.
@@ -5979,12 +5979,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.mycompany.myapp:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.mycompany.myapp:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.mycompany.myapp:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-           <tr><td><code>{@link #ActionMode_height com.mycompany.myapp:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.mycompany.myapp:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.mycompany.myapp:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionMode_background com.xiaoze.xynote:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.xiaoze.xynote:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.xiaoze.xynote:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+           <tr><td><code>{@link #ActionMode_height com.xiaoze.xynote:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.xiaoze.xynote:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.xiaoze.xynote:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -6006,7 +6006,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:background
+          @attr name com.xiaoze.xynote:background
         */
         public static final int ActionMode_background = 3;
         /**
@@ -6020,7 +6020,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundSplit
+          @attr name com.xiaoze.xynote:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
@@ -6032,7 +6032,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:closeItemLayout
+          @attr name com.xiaoze.xynote:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
@@ -6050,7 +6050,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:height
+          @attr name com.xiaoze.xynote:height
         */
         public static final int ActionMode_height = 0;
         /**
@@ -6062,7 +6062,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subtitleTextStyle
+          @attr name com.xiaoze.xynote:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
@@ -6074,7 +6074,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleTextStyle
+          @attr name com.xiaoze.xynote:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -6083,8 +6083,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.mycompany.myapp:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.mycompany.myapp:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.xiaoze.xynote:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.xiaoze.xynote:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -6106,7 +6106,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:expandActivityOverflowButtonDrawable
+          @attr name com.xiaoze.xynote:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
@@ -6122,7 +6122,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:initialActivityCount
+          @attr name com.xiaoze.xynote:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -6132,13 +6132,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonIconDimen com.mycompany.myapp:buttonIconDimen}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.mycompany.myapp:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.mycompany.myapp:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.mycompany.myapp:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.mycompany.myapp:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.mycompany.myapp:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.mycompany.myapp:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonIconDimen com.xiaoze.xynote:buttonIconDimen}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.xiaoze.xynote:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.xiaoze.xynote:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.xiaoze.xynote:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.xiaoze.xynote:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.xiaoze.xynote:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.xiaoze.xynote:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonIconDimen
@@ -6160,7 +6160,7 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#buttonIconDimen}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#buttonIconDimen}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -6172,51 +6172,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:buttonIconDimen
+          @attr name com.xiaoze.xynote:buttonIconDimen
         */
         public static final int AlertDialog_buttonIconDimen = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:buttonPanelSideLayout
+          @attr name com.xiaoze.xynote:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:listItemLayout
+          @attr name com.xiaoze.xynote:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:listLayout
+          @attr name com.xiaoze.xynote:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:multiChoiceItemLayout
+          @attr name com.xiaoze.xynote:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -6226,17 +6226,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:showTitle
+          @attr name com.xiaoze.xynote:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:singleChoiceItemLayout
+          @attr name com.xiaoze.xynote:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /**  Indicates if the drawable needs to be mirrored when its layout direction is
@@ -6433,9 +6433,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.mycompany.myapp:expanded}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_liftOnScroll com.mycompany.myapp:liftOnScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.xiaoze.xynote:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_liftOnScroll com.xiaoze.xynote:liftOnScroll}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_android_keyboardNavigationCluster
@@ -6481,11 +6481,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int AppBarLayout_elevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6495,11 +6495,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expanded
+          @attr name com.xiaoze.xynote:expanded
         */
         public static final int AppBarLayout_expanded = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#liftOnScroll}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#liftOnScroll}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6509,7 +6509,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:liftOnScroll
+          @attr name com.xiaoze.xynote:liftOnScroll
         */
         public static final int AppBarLayout_liftOnScroll = 4;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -6518,10 +6518,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.mycompany.myapp:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.mycompany.myapp:state_collapsible}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.mycompany.myapp:state_liftable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.mycompany.myapp:state_lifted}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.xiaoze.xynote:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.xiaoze.xynote:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.xiaoze.xynote:state_liftable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.xiaoze.xynote:state_lifted}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -6532,7 +6532,7 @@ containing a value of this type.
             0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6542,11 +6542,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:state_collapsed
+          @attr name com.xiaoze.xynote:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6556,11 +6556,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:state_collapsible
+          @attr name com.xiaoze.xynote:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#state_liftable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#state_liftable}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6570,11 +6570,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:state_liftable
+          @attr name com.xiaoze.xynote:state_liftable
         */
         public static final int AppBarLayoutStates_state_liftable = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#state_lifted}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#state_lifted}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6584,7 +6584,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:state_lifted
+          @attr name com.xiaoze.xynote:state_lifted
         */
         public static final int AppBarLayoutStates_state_lifted = 2;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -6593,8 +6593,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.mycompany.myapp:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.mycompany.myapp:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.xiaoze.xynote:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.xiaoze.xynote:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6603,7 +6603,7 @@ containing a value of this type.
             0x7f01003c, 0x7f01003d
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -6620,17 +6620,17 @@ containing a value of this type.
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>snapMargins</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:layout_scrollFlags
+          @attr name com.xiaoze.xynote:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:layout_scrollInterpolator
+          @attr name com.xiaoze.xynote:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -6640,9 +6640,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.mycompany.myapp:srcCompat}</code></td><td> Sets a drawable as the content of this ImageView.</td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint com.mycompany.myapp:tint}</code></td><td> Tint to apply to the image source.</td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode com.mycompany.myapp:tintMode}</code></td><td> Blending mode used to apply the image source tint.</td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.xiaoze.xynote:srcCompat}</code></td><td> Sets a drawable as the content of this ImageView.</td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint com.xiaoze.xynote:tint}</code></td><td> Tint to apply to the image source.</td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode com.xiaoze.xynote:tintMode}</code></td><td> Blending mode used to apply the image source tint.</td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -6668,7 +6668,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:srcCompat
+          @attr name com.xiaoze.xynote:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
@@ -6685,7 +6685,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tint
+          @attr name com.xiaoze.xynote:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
@@ -6713,7 +6713,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tintMode
+          @attr name com.xiaoze.xynote:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -6723,9 +6723,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.mycompany.myapp:tickMark}</code></td><td> Drawable displayed at each progress position on a seekbar.</td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.mycompany.myapp:tickMarkTint}</code></td><td> Tint to apply to the tick mark drawable.</td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.mycompany.myapp:tickMarkTintMode}</code></td><td> Blending mode used to apply the tick mark tint.</td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.xiaoze.xynote:tickMark}</code></td><td> Drawable displayed at each progress position on a seekbar.</td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.xiaoze.xynote:tickMarkTint}</code></td><td> Tint to apply to the tick mark drawable.</td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.xiaoze.xynote:tickMarkTintMode}</code></td><td> Blending mode used to apply the tick mark tint.</td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -6750,7 +6750,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tickMark
+          @attr name com.xiaoze.xynote:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
@@ -6767,7 +6767,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tickMarkTint
+          @attr name com.xiaoze.xynote:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
@@ -6795,7 +6795,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tickMarkTintMode
+          @attr name com.xiaoze.xynote:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -6873,18 +6873,18 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.mycompany.myapp:autoSizeMaxTextSize}</code></td><td> The maximum text size constraint to be used when auto-sizing text.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.mycompany.myapp:autoSizeMinTextSize}</code></td><td> The minimum text size constraint to be used when auto-sizing text.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.mycompany.myapp:autoSizePresetSizes}</code></td><td> Resource array of dimensions to be used in conjunction with
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.xiaoze.xynote:autoSizeMaxTextSize}</code></td><td> The maximum text size constraint to be used when auto-sizing text.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.xiaoze.xynote:autoSizeMinTextSize}</code></td><td> The minimum text size constraint to be used when auto-sizing text.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.xiaoze.xynote:autoSizePresetSizes}</code></td><td> Resource array of dimensions to be used in conjunction with
         <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.mycompany.myapp:autoSizeStepGranularity}</code></td><td> Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.xiaoze.xynote:autoSizeStepGranularity}</code></td><td> Specify the auto-size step size if <code>autoSizeTextType</code> is set to
         <code>uniform</code>.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.mycompany.myapp:autoSizeTextType}</code></td><td> Specify the type of auto-size.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.mycompany.myapp:firstBaselineToTopHeight}</code></td><td> Distance from the top of the TextView to the first text baseline.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_fontFamily com.mycompany.myapp:fontFamily}</code></td><td> The attribute for the font family.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.mycompany.myapp:lastBaselineToBottomHeight}</code></td><td> Distance from the bottom of the TextView to the last text baseline.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_lineHeight com.mycompany.myapp:lineHeight}</code></td><td> Explicit height between lines of text.</td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.mycompany.myapp:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.xiaoze.xynote:autoSizeTextType}</code></td><td> Specify the type of auto-size.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.xiaoze.xynote:firstBaselineToTopHeight}</code></td><td> Distance from the top of the TextView to the first text baseline.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_fontFamily com.xiaoze.xynote:fontFamily}</code></td><td> The attribute for the font family.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.xiaoze.xynote:lastBaselineToBottomHeight}</code></td><td> Distance from the bottom of the TextView to the last text baseline.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_lineHeight com.xiaoze.xynote:lineHeight}</code></td><td> Explicit height between lines of text.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.xiaoze.xynote:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_autoSizeMaxTextSize
@@ -6924,7 +6924,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoSizeMaxTextSize
+          @attr name com.xiaoze.xynote:autoSizeMaxTextSize
         */
         public static final int AppCompatTextView_autoSizeMaxTextSize = 6;
         /**
@@ -6942,7 +6942,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoSizeMinTextSize
+          @attr name com.xiaoze.xynote:autoSizeMinTextSize
         */
         public static final int AppCompatTextView_autoSizeMinTextSize = 5;
         /**
@@ -6956,7 +6956,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoSizePresetSizes
+          @attr name com.xiaoze.xynote:autoSizePresetSizes
         */
         public static final int AppCompatTextView_autoSizePresetSizes = 4;
         /**
@@ -6976,7 +6976,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoSizeStepGranularity
+          @attr name com.xiaoze.xynote:autoSizeStepGranularity
         */
         public static final int AppCompatTextView_autoSizeStepGranularity = 3;
         /**
@@ -6997,7 +6997,7 @@ containing a value of this type.
             container. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoSizeTextType
+          @attr name com.xiaoze.xynote:autoSizeTextType
         */
         public static final int AppCompatTextView_autoSizeTextType = 2;
         /**
@@ -7016,7 +7016,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:firstBaselineToTopHeight
+          @attr name com.xiaoze.xynote:firstBaselineToTopHeight
         */
         public static final int AppCompatTextView_firstBaselineToTopHeight = 9;
         /**
@@ -7032,7 +7032,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontFamily
+          @attr name com.xiaoze.xynote:fontFamily
         */
         public static final int AppCompatTextView_fontFamily = 7;
         /**
@@ -7051,7 +7051,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:lastBaselineToBottomHeight
+          @attr name com.xiaoze.xynote:lastBaselineToBottomHeight
         */
         public static final int AppCompatTextView_lastBaselineToBottomHeight = 10;
         /**
@@ -7070,7 +7070,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:lineHeight
+          @attr name com.xiaoze.xynote:lineHeight
         */
         public static final int AppCompatTextView_lineHeight = 8;
         /**
@@ -7083,7 +7083,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAllCaps
+          @attr name com.xiaoze.xynote:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -7092,144 +7092,144 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.mycompany.myapp:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.mycompany.myapp:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.mycompany.myapp:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.xiaoze.xynote:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.xiaoze.xynote:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.xiaoze.xynote:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.mycompany.myapp:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.xiaoze.xynote:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
              bar used to present Action Modes.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.mycompany.myapp:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.mycompany.myapp:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.mycompany.myapp:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.mycompany.myapp:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.mycompany.myapp:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.mycompany.myapp:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.xiaoze.xynote:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.xiaoze.xynote:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.xiaoze.xynote:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.xiaoze.xynote:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.xiaoze.xynote:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.xiaoze.xynote:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
              action bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.mycompany.myapp:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.xiaoze.xynote:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
              and layouts destined for the action bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.mycompany.myapp:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.mycompany.myapp:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.mycompany.myapp:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.xiaoze.xynote:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.xiaoze.xynote:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.xiaoze.xynote:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
              appears within action menu items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.mycompany.myapp:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.mycompany.myapp:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.mycompany.myapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.mycompany.myapp:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.mycompany.myapp:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.mycompany.myapp:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.mycompany.myapp:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.mycompany.myapp:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.mycompany.myapp:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.mycompany.myapp:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.mycompany.myapp:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.mycompany.myapp:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.mycompany.myapp:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.mycompany.myapp:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.mycompany.myapp:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.mycompany.myapp:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.mycompany.myapp:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.mycompany.myapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.mycompany.myapp:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.mycompany.myapp:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.mycompany.myapp:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.xiaoze.xynote:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.xiaoze.xynote:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.xiaoze.xynote:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.xiaoze.xynote:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.xiaoze.xynote:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.xiaoze.xynote:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.xiaoze.xynote:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.xiaoze.xynote:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.xiaoze.xynote:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.xiaoze.xynote:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.xiaoze.xynote:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.xiaoze.xynote:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.xiaoze.xynote:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.xiaoze.xynote:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.xiaoze.xynote:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.xiaoze.xynote:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.xiaoze.xynote:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.xiaoze.xynote:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.xiaoze.xynote:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.xiaoze.xynote:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.xiaoze.xynote:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.mycompany.myapp:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.mycompany.myapp:borderlessButtonStyle}</code></td><td> Style for buttons without an explicit border, often used in groups.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.mycompany.myapp:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.mycompany.myapp:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.mycompany.myapp:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.mycompany.myapp:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.mycompany.myapp:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.mycompany.myapp:buttonStyle}</code></td><td> Normal Button style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.mycompany.myapp:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.mycompany.myapp:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.mycompany.myapp:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.mycompany.myapp:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.mycompany.myapp:colorBackgroundFloating}</code></td><td> Default color of background imagery for floating components, ex.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.mycompany.myapp:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.mycompany.myapp:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.mycompany.myapp:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.mycompany.myapp:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorError com.mycompany.myapp:colorError}</code></td><td> Color used for error states and things that need to be drawn to
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.xiaoze.xynote:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.xiaoze.xynote:borderlessButtonStyle}</code></td><td> Style for buttons without an explicit border, often used in groups.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.xiaoze.xynote:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.xiaoze.xynote:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.xiaoze.xynote:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.xiaoze.xynote:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.xiaoze.xynote:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.xiaoze.xynote:buttonStyle}</code></td><td> Normal Button style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.xiaoze.xynote:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.xiaoze.xynote:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.xiaoze.xynote:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.xiaoze.xynote:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.xiaoze.xynote:colorBackgroundFloating}</code></td><td> Default color of background imagery for floating components, ex.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.xiaoze.xynote:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.xiaoze.xynote:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.xiaoze.xynote:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.xiaoze.xynote:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorError com.xiaoze.xynote:colorError}</code></td><td> Color used for error states and things that need to be drawn to
              the user's attention.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.mycompany.myapp:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.mycompany.myapp:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.mycompany.myapp:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.mycompany.myapp:controlBackground}</code></td><td> The background used by framework controls.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.mycompany.myapp:dialogCornerRadius}</code></td><td> Preferred corner radius of dialogs.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.mycompany.myapp:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.mycompany.myapp:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.mycompany.myapp:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.mycompany.myapp:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.mycompany.myapp:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.mycompany.myapp:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.mycompany.myapp:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.mycompany.myapp:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.mycompany.myapp:editTextStyle}</code></td><td> Default EditText style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.mycompany.myapp:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.mycompany.myapp:imageButtonStyle}</code></td><td> ImageButton background drawable.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.mycompany.myapp:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.mycompany.myapp:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.mycompany.myapp:listMenuViewStyle}</code></td><td> Default menu-style ListView style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.mycompany.myapp:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.mycompany.myapp:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.mycompany.myapp:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.mycompany.myapp:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.mycompany.myapp:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.mycompany.myapp:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.mycompany.myapp:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.mycompany.myapp:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.mycompany.myapp:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.mycompany.myapp:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.mycompany.myapp:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.mycompany.myapp:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.mycompany.myapp:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.mycompany.myapp:ratingBarStyleIndicator}</code></td><td> Indicator RatingBar style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.mycompany.myapp:ratingBarStyleSmall}</code></td><td> Small indicator RatingBar style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.mycompany.myapp:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.mycompany.myapp:seekBarStyle}</code></td><td> Default SeekBar style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.mycompany.myapp:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.xiaoze.xynote:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.xiaoze.xynote:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.xiaoze.xynote:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.xiaoze.xynote:controlBackground}</code></td><td> The background used by framework controls.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.xiaoze.xynote:dialogCornerRadius}</code></td><td> Preferred corner radius of dialogs.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.xiaoze.xynote:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.xiaoze.xynote:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.xiaoze.xynote:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.xiaoze.xynote:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.xiaoze.xynote:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.xiaoze.xynote:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.xiaoze.xynote:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.xiaoze.xynote:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.xiaoze.xynote:editTextStyle}</code></td><td> Default EditText style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.xiaoze.xynote:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.xiaoze.xynote:imageButtonStyle}</code></td><td> ImageButton background drawable.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.xiaoze.xynote:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.xiaoze.xynote:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.xiaoze.xynote:listMenuViewStyle}</code></td><td> Default menu-style ListView style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.xiaoze.xynote:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.xiaoze.xynote:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.xiaoze.xynote:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.xiaoze.xynote:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.xiaoze.xynote:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.xiaoze.xynote:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.xiaoze.xynote:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.xiaoze.xynote:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.xiaoze.xynote:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.xiaoze.xynote:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.xiaoze.xynote:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.xiaoze.xynote:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.xiaoze.xynote:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.xiaoze.xynote:ratingBarStyleIndicator}</code></td><td> Indicator RatingBar style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.xiaoze.xynote:ratingBarStyleSmall}</code></td><td> Small indicator RatingBar style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.xiaoze.xynote:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.xiaoze.xynote:seekBarStyle}</code></td><td> Default SeekBar style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.xiaoze.xynote:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
              that should react to pressed and focus states, but that do not
              have a clear visual border along the edges.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.mycompany.myapp:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.mycompany.myapp:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.mycompany.myapp:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.mycompany.myapp:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.mycompany.myapp:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.mycompany.myapp:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.mycompany.myapp:textAppearanceListItemSecondary}</code></td><td> The preferred TextAppearance for the secondary text of list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.mycompany.myapp:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.mycompany.myapp:textAppearancePopupMenuHeader}</code></td><td> Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.mycompany.myapp:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.mycompany.myapp:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.mycompany.myapp:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.mycompany.myapp:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.mycompany.myapp:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.mycompany.myapp:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.mycompany.myapp:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.mycompany.myapp:tooltipForegroundColor}</code></td><td> Foreground color to use for tooltips </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.mycompany.myapp:tooltipFrameBackground}</code></td><td> Background to use for tooltips </td></tr>
-           <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.mycompany.myapp:viewInflaterClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.mycompany.myapp:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.xiaoze.xynote:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.xiaoze.xynote:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.xiaoze.xynote:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.xiaoze.xynote:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.xiaoze.xynote:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.xiaoze.xynote:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.xiaoze.xynote:textAppearanceListItemSecondary}</code></td><td> The preferred TextAppearance for the secondary text of list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.xiaoze.xynote:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.xiaoze.xynote:textAppearancePopupMenuHeader}</code></td><td> Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.xiaoze.xynote:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.xiaoze.xynote:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.xiaoze.xynote:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.xiaoze.xynote:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.xiaoze.xynote:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.xiaoze.xynote:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.xiaoze.xynote:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.xiaoze.xynote:tooltipForegroundColor}</code></td><td> Foreground color to use for tooltips </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.xiaoze.xynote:tooltipFrameBackground}</code></td><td> Background to use for tooltips </td></tr>
+           <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.xiaoze.xynote:viewInflaterClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.xiaoze.xynote:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
              in place of the usual title bar.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.mycompany.myapp:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.xiaoze.xynote:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
              application content.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.mycompany.myapp:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.xiaoze.xynote:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
              when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.mycompany.myapp:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.xiaoze.xynote:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.mycompany.myapp:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.xiaoze.xynote:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.mycompany.myapp:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.xiaoze.xynote:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.mycompany.myapp:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.xiaoze.xynote:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.mycompany.myapp:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.xiaoze.xynote:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.mycompany.myapp:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.xiaoze.xynote:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.mycompany.myapp:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.xiaoze.xynote:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -7395,7 +7395,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarDivider
+          @attr name com.xiaoze.xynote:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
@@ -7407,7 +7407,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarItemBackground
+          @attr name com.xiaoze.xynote:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
@@ -7420,7 +7420,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarPopupTheme
+          @attr name com.xiaoze.xynote:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
@@ -7447,7 +7447,7 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarSize
+          @attr name com.xiaoze.xynote:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
@@ -7462,7 +7462,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarSplitStyle
+          @attr name com.xiaoze.xynote:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
@@ -7474,17 +7474,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarStyle
+          @attr name com.xiaoze.xynote:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionBarTabBarStyle
+          @attr name com.xiaoze.xynote:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
@@ -7496,17 +7496,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarTabStyle
+          @attr name com.xiaoze.xynote:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionBarTabTextStyle
+          @attr name com.xiaoze.xynote:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
@@ -7520,7 +7520,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarTheme
+          @attr name com.xiaoze.xynote:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
@@ -7538,7 +7538,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionBarWidgetTheme
+          @attr name com.xiaoze.xynote:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
@@ -7550,7 +7550,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionButtonStyle
+          @attr name com.xiaoze.xynote:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 51;
         /**
@@ -7562,7 +7562,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionDropDownStyle
+          @attr name com.xiaoze.xynote:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 47;
         /**
@@ -7575,7 +7575,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionMenuTextAppearance
+          @attr name com.xiaoze.xynote:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
@@ -7590,7 +7590,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionMenuTextColor
+          @attr name com.xiaoze.xynote:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
@@ -7602,17 +7602,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeBackground
+          @attr name com.xiaoze.xynote:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionModeCloseButtonStyle
+          @attr name com.xiaoze.xynote:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
@@ -7624,7 +7624,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeCloseDrawable
+          @attr name com.xiaoze.xynote:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
@@ -7636,7 +7636,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeCopyDrawable
+          @attr name com.xiaoze.xynote:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
@@ -7648,7 +7648,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeCutDrawable
+          @attr name com.xiaoze.xynote:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
@@ -7660,7 +7660,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeFindDrawable
+          @attr name com.xiaoze.xynote:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
@@ -7672,7 +7672,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModePasteDrawable
+          @attr name com.xiaoze.xynote:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
@@ -7684,7 +7684,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModePopupWindowStyle
+          @attr name com.xiaoze.xynote:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
@@ -7696,7 +7696,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeSelectAllDrawable
+          @attr name com.xiaoze.xynote:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
@@ -7708,7 +7708,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeShareDrawable
+          @attr name com.xiaoze.xynote:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
@@ -7720,17 +7720,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeSplitBackground
+          @attr name com.xiaoze.xynote:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionModeStyle
+          @attr name com.xiaoze.xynote:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
@@ -7742,27 +7742,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionModeWebSearchDrawable
+          @attr name com.xiaoze.xynote:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionOverflowButtonStyle
+          @attr name com.xiaoze.xynote:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:actionOverflowMenuStyle
+          @attr name com.xiaoze.xynote:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
@@ -7774,21 +7774,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:activityChooserViewStyle
+          @attr name com.xiaoze.xynote:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:alertDialogButtonGroupStyle
+          @attr name com.xiaoze.xynote:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7798,17 +7798,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:alertDialogCenterButtons
+          @attr name com.xiaoze.xynote:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 97;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:alertDialogStyle
+          @attr name com.xiaoze.xynote:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 95;
         /**
@@ -7820,7 +7820,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:alertDialogTheme
+          @attr name com.xiaoze.xynote:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 98;
         /**
@@ -7844,7 +7844,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:autoCompleteTextViewStyle
+          @attr name com.xiaoze.xynote:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 103;
         /**
@@ -7856,7 +7856,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:borderlessButtonStyle
+          @attr name com.xiaoze.xynote:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 56;
         /**
@@ -7868,7 +7868,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonBarButtonStyle
+          @attr name com.xiaoze.xynote:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 53;
         /**
@@ -7880,7 +7880,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonBarNegativeButtonStyle
+          @attr name com.xiaoze.xynote:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 101;
         /**
@@ -7892,7 +7892,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonBarNeutralButtonStyle
+          @attr name com.xiaoze.xynote:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 102;
         /**
@@ -7904,7 +7904,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonBarPositiveButtonStyle
+          @attr name com.xiaoze.xynote:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 100;
         /**
@@ -7916,7 +7916,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonBarStyle
+          @attr name com.xiaoze.xynote:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 52;
         /**
@@ -7928,7 +7928,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonStyle
+          @attr name com.xiaoze.xynote:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 104;
         /**
@@ -7940,7 +7940,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonStyleSmall
+          @attr name com.xiaoze.xynote:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 105;
         /**
@@ -7952,7 +7952,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:checkboxStyle
+          @attr name com.xiaoze.xynote:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 106;
         /**
@@ -7964,7 +7964,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:checkedTextViewStyle
+          @attr name com.xiaoze.xynote:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 107;
         /**
@@ -7982,7 +7982,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorAccent
+          @attr name com.xiaoze.xynote:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 87;
         /**
@@ -7999,7 +7999,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorBackgroundFloating
+          @attr name com.xiaoze.xynote:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 94;
         /**
@@ -8016,7 +8016,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorButtonNormal
+          @attr name com.xiaoze.xynote:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 91;
         /**
@@ -8033,7 +8033,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorControlActivated
+          @attr name com.xiaoze.xynote:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 89;
         /**
@@ -8050,7 +8050,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorControlHighlight
+          @attr name com.xiaoze.xynote:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 90;
         /**
@@ -8067,7 +8067,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorControlNormal
+          @attr name com.xiaoze.xynote:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 88;
         /**
@@ -8082,7 +8082,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorError
+          @attr name com.xiaoze.xynote:colorError
         */
         public static final int AppCompatTheme_colorError = 119;
         /**
@@ -8100,7 +8100,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorPrimary
+          @attr name com.xiaoze.xynote:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 85;
         /**
@@ -8118,7 +8118,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorPrimaryDark
+          @attr name com.xiaoze.xynote:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 86;
         /**
@@ -8135,7 +8135,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorSwitchThumbNormal
+          @attr name com.xiaoze.xynote:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 92;
         /**
@@ -8147,7 +8147,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:controlBackground
+          @attr name com.xiaoze.xynote:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 93;
         /**
@@ -8165,7 +8165,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dialogCornerRadius
+          @attr name com.xiaoze.xynote:dialogCornerRadius
         */
         public static final int AppCompatTheme_dialogCornerRadius = 46;
         /**
@@ -8183,7 +8183,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dialogPreferredPadding
+          @attr name com.xiaoze.xynote:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
@@ -8195,7 +8195,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dialogTheme
+          @attr name com.xiaoze.xynote:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
@@ -8207,7 +8207,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dividerHorizontal
+          @attr name com.xiaoze.xynote:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 58;
         /**
@@ -8219,7 +8219,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dividerVertical
+          @attr name com.xiaoze.xynote:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 57;
         /**
@@ -8231,7 +8231,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dropDownListViewStyle
+          @attr name com.xiaoze.xynote:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 76;
         /**
@@ -8249,7 +8249,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dropdownListPreferredItemHeight
+          @attr name com.xiaoze.xynote:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 48;
         /**
@@ -8261,7 +8261,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:editTextBackground
+          @attr name com.xiaoze.xynote:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 65;
         /**
@@ -8275,7 +8275,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:editTextColor
+          @attr name com.xiaoze.xynote:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 64;
         /**
@@ -8287,7 +8287,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:editTextStyle
+          @attr name com.xiaoze.xynote:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 108;
         /**
@@ -8299,7 +8299,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:homeAsUpIndicator
+          @attr name com.xiaoze.xynote:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 50;
         /**
@@ -8311,7 +8311,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:imageButtonStyle
+          @attr name com.xiaoze.xynote:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 66;
         /**
@@ -8323,7 +8323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listChoiceBackgroundIndicator
+          @attr name com.xiaoze.xynote:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 84;
         /**
@@ -8335,7 +8335,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listDividerAlertDialog
+          @attr name com.xiaoze.xynote:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
@@ -8347,17 +8347,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listMenuViewStyle
+          @attr name com.xiaoze.xynote:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 116;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:listPopupWindowStyle
+          @attr name com.xiaoze.xynote:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 77;
         /**
@@ -8375,7 +8375,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listPreferredItemHeight
+          @attr name com.xiaoze.xynote:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 71;
         /**
@@ -8393,7 +8393,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listPreferredItemHeightLarge
+          @attr name com.xiaoze.xynote:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 73;
         /**
@@ -8411,7 +8411,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listPreferredItemHeightSmall
+          @attr name com.xiaoze.xynote:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 72;
         /**
@@ -8429,7 +8429,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listPreferredItemPaddingLeft
+          @attr name com.xiaoze.xynote:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 74;
         /**
@@ -8447,7 +8447,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:listPreferredItemPaddingRight
+          @attr name com.xiaoze.xynote:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 75;
         /**
@@ -8459,7 +8459,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:panelBackground
+          @attr name com.xiaoze.xynote:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 81;
         /**
@@ -8471,7 +8471,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:panelMenuListTheme
+          @attr name com.xiaoze.xynote:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 83;
         /**
@@ -8489,7 +8489,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:panelMenuListWidth
+          @attr name com.xiaoze.xynote:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 82;
         /**
@@ -8501,7 +8501,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:popupMenuStyle
+          @attr name com.xiaoze.xynote:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 62;
         /**
@@ -8513,7 +8513,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:popupWindowStyle
+          @attr name com.xiaoze.xynote:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 63;
         /**
@@ -8525,7 +8525,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:radioButtonStyle
+          @attr name com.xiaoze.xynote:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 109;
         /**
@@ -8537,7 +8537,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:ratingBarStyle
+          @attr name com.xiaoze.xynote:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 110;
         /**
@@ -8549,7 +8549,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:ratingBarStyleIndicator
+          @attr name com.xiaoze.xynote:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 111;
         /**
@@ -8561,7 +8561,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:ratingBarStyleSmall
+          @attr name com.xiaoze.xynote:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 112;
         /**
@@ -8573,7 +8573,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:searchViewStyle
+          @attr name com.xiaoze.xynote:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 70;
         /**
@@ -8585,7 +8585,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:seekBarStyle
+          @attr name com.xiaoze.xynote:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 113;
         /**
@@ -8599,7 +8599,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:selectableItemBackground
+          @attr name com.xiaoze.xynote:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 54;
         /**
@@ -8611,7 +8611,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:selectableItemBackgroundBorderless
+          @attr name com.xiaoze.xynote:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 55;
         /**
@@ -8623,7 +8623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:spinnerDropDownItemStyle
+          @attr name com.xiaoze.xynote:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 49;
         /**
@@ -8635,7 +8635,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:spinnerStyle
+          @attr name com.xiaoze.xynote:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 114;
         /**
@@ -8647,7 +8647,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:switchStyle
+          @attr name com.xiaoze.xynote:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 115;
         /**
@@ -8659,7 +8659,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceLargePopupMenu
+          @attr name com.xiaoze.xynote:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
@@ -8671,7 +8671,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceListItem
+          @attr name com.xiaoze.xynote:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 78;
         /**
@@ -8683,7 +8683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceListItemSecondary
+          @attr name com.xiaoze.xynote:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 79;
         /**
@@ -8695,7 +8695,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceListItemSmall
+          @attr name com.xiaoze.xynote:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 80;
         /**
@@ -8707,7 +8707,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearancePopupMenuHeader
+          @attr name com.xiaoze.xynote:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
@@ -8719,7 +8719,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceSearchResultSubtitle
+          @attr name com.xiaoze.xynote:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 68;
         /**
@@ -8731,7 +8731,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceSearchResultTitle
+          @attr name com.xiaoze.xynote:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 67;
         /**
@@ -8743,7 +8743,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAppearanceSmallPopupMenu
+          @attr name com.xiaoze.xynote:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
@@ -8757,7 +8757,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textColorAlertDialogListItem
+          @attr name com.xiaoze.xynote:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 99;
         /**
@@ -8771,7 +8771,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textColorSearchUrl
+          @attr name com.xiaoze.xynote:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 69;
         /**
@@ -8783,7 +8783,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:toolbarNavigationButtonStyle
+          @attr name com.xiaoze.xynote:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 61;
         /**
@@ -8795,7 +8795,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:toolbarStyle
+          @attr name com.xiaoze.xynote:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 60;
         /**
@@ -8809,7 +8809,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tooltipForegroundColor
+          @attr name com.xiaoze.xynote:tooltipForegroundColor
         */
         public static final int AppCompatTheme_tooltipForegroundColor = 118;
         /**
@@ -8821,11 +8821,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tooltipFrameBackground
+          @attr name com.xiaoze.xynote:tooltipFrameBackground
         */
         public static final int AppCompatTheme_tooltipFrameBackground = 117;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#viewInflaterClass}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#viewInflaterClass}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8835,7 +8835,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:viewInflaterClass
+          @attr name com.xiaoze.xynote:viewInflaterClass
         */
         public static final int AppCompatTheme_viewInflaterClass = 120;
         /**
@@ -8852,7 +8852,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowActionBar
+          @attr name com.xiaoze.xynote:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
@@ -8870,7 +8870,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowActionBarOverlay
+          @attr name com.xiaoze.xynote:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
@@ -8887,7 +8887,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowActionModeOverlay
+          @attr name com.xiaoze.xynote:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
@@ -8910,7 +8910,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowFixedHeightMajor
+          @attr name com.xiaoze.xynote:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
@@ -8933,7 +8933,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowFixedHeightMinor
+          @attr name com.xiaoze.xynote:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
@@ -8956,7 +8956,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowFixedWidthMajor
+          @attr name com.xiaoze.xynote:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
@@ -8979,7 +8979,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowFixedWidthMinor
+          @attr name com.xiaoze.xynote:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
@@ -9003,7 +9003,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowMinWidthMajor
+          @attr name com.xiaoze.xynote:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
@@ -9027,7 +9027,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowMinWidthMinor
+          @attr name com.xiaoze.xynote:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
@@ -9043,7 +9043,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:windowNoTitle
+          @attr name com.xiaoze.xynote:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomAppBar.
@@ -9052,12 +9052,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomAppBar_backgroundTint com.mycompany.myapp:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.mycompany.myapp:fabAlignmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.mycompany.myapp:fabCradleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.mycompany.myapp:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.mycompany.myapp:fabCradleVerticalOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomAppBar_hideOnScroll com.mycompany.myapp:hideOnScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomAppBar_backgroundTint com.xiaoze.xynote:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.xiaoze.xynote:fabAlignmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.xiaoze.xynote:fabCradleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.xiaoze.xynote:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.xiaoze.xynote:fabCradleVerticalOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomAppBar_hideOnScroll com.xiaoze.xynote:hideOnScroll}</code></td><td></td></tr>
            </table>
            @see #BottomAppBar_backgroundTint
            @see #BottomAppBar_fabAlignmentMode
@@ -9084,11 +9084,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTint
+          @attr name com.xiaoze.xynote:backgroundTint
         */
         public static final int BottomAppBar_backgroundTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabAlignmentMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabAlignmentMode}
           attribute's value can be found in the {@link #BottomAppBar} array.
 
 
@@ -9101,11 +9101,11 @@ containing a value of this type.
 <tr><td><code>center</code></td><td>0</td><td></td></tr>
 <tr><td><code>end</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:fabAlignmentMode
+          @attr name com.xiaoze.xynote:fabAlignmentMode
         */
         public static final int BottomAppBar_fabAlignmentMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabCradleMargin}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabCradleMargin}
           attribute's value can be found in the {@link #BottomAppBar} array.
 
 
@@ -9117,11 +9117,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:fabCradleMargin
+          @attr name com.xiaoze.xynote:fabCradleMargin
         */
         public static final int BottomAppBar_fabCradleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabCradleRoundedCornerRadius}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabCradleRoundedCornerRadius}
           attribute's value can be found in the {@link #BottomAppBar} array.
 
 
@@ -9133,11 +9133,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:fabCradleRoundedCornerRadius
+          @attr name com.xiaoze.xynote:fabCradleRoundedCornerRadius
         */
         public static final int BottomAppBar_fabCradleRoundedCornerRadius = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabCradleVerticalOffset}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabCradleVerticalOffset}
           attribute's value can be found in the {@link #BottomAppBar} array.
 
 
@@ -9149,11 +9149,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:fabCradleVerticalOffset
+          @attr name com.xiaoze.xynote:fabCradleVerticalOffset
         */
         public static final int BottomAppBar_fabCradleVerticalOffset = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hideOnScroll}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hideOnScroll}
           attribute's value can be found in the {@link #BottomAppBar} array.
 
 
@@ -9163,7 +9163,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:hideOnScroll
+          @attr name com.xiaoze.xynote:hideOnScroll
         */
         public static final int BottomAppBar_hideOnScroll = 4;
         /** Attributes that can be used with a BottomNavigationView.
@@ -9172,16 +9172,16 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.mycompany.myapp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.mycompany.myapp:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconSize com.mycompany.myapp:itemIconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.mycompany.myapp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.mycompany.myapp:itemTextAppearanceActive}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.mycompany.myapp:itemTextAppearanceInactive}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.mycompany.myapp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.mycompany.myapp:labelVisibilityMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.mycompany.myapp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.xiaoze.xynote:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.xiaoze.xynote:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconSize com.xiaoze.xynote:itemIconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.xiaoze.xynote:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.xiaoze.xynote:itemTextAppearanceActive}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.xiaoze.xynote:itemTextAppearanceInactive}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.xiaoze.xynote:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.xiaoze.xynote:labelVisibilityMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.xiaoze.xynote:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -9214,21 +9214,21 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int BottomNavigationView_elevation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:itemBackground
+          @attr name com.xiaoze.xynote:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemHorizontalTranslationEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemHorizontalTranslationEnabled}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9238,11 +9238,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemHorizontalTranslationEnabled
+          @attr name com.xiaoze.xynote:itemHorizontalTranslationEnabled
         */
         public static final int BottomNavigationView_itemHorizontalTranslationEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemIconSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemIconSize}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9254,11 +9254,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemIconSize
+          @attr name com.xiaoze.xynote:itemIconSize
         */
         public static final int BottomNavigationView_itemIconSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9269,31 +9269,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemIconTint
+          @attr name com.xiaoze.xynote:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemTextAppearanceActive}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemTextAppearanceActive}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:itemTextAppearanceActive
+          @attr name com.xiaoze.xynote:itemTextAppearanceActive
         */
         public static final int BottomNavigationView_itemTextAppearanceActive = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemTextAppearanceInactive}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemTextAppearanceInactive}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:itemTextAppearanceInactive
+          @attr name com.xiaoze.xynote:itemTextAppearanceInactive
         */
         public static final int BottomNavigationView_itemTextAppearanceInactive = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9304,11 +9304,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemTextColor
+          @attr name com.xiaoze.xynote:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#labelVisibilityMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#labelVisibilityMode}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9323,17 +9323,17 @@ containing a value of this type.
 <tr><td><code>labeled</code></td><td>1</td><td></td></tr>
 <tr><td><code>unlabeled</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:labelVisibilityMode
+          @attr name com.xiaoze.xynote:labelVisibilityMode
         */
         public static final int BottomNavigationView_labelVisibilityMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:menu
+          @attr name com.xiaoze.xynote:menu
         */
         public static final int BottomNavigationView_menu = 5;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -9342,10 +9342,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.mycompany.myapp:behavior_fitToContents}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.mycompany.myapp:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.mycompany.myapp:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.mycompany.myapp:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.xiaoze.xynote:behavior_fitToContents}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.xiaoze.xynote:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.xiaoze.xynote:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.xiaoze.xynote:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_fitToContents
            @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -9356,7 +9356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_fitToContents}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_fitToContents}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9366,11 +9366,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:behavior_fitToContents
+          @attr name com.xiaoze.xynote:behavior_fitToContents
         */
         public static final int BottomSheetBehavior_Layout_behavior_fitToContents = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9380,11 +9380,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:behavior_hideable
+          @attr name com.xiaoze.xynote:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9404,11 +9404,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:behavior_peekHeight
+          @attr name com.xiaoze.xynote:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9418,7 +9418,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:behavior_skipCollapsed
+          @attr name com.xiaoze.xynote:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -9427,7 +9427,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.mycompany.myapp:allowStacking}</code></td><td> Whether to automatically stack the buttons when there is not
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.xiaoze.xynote:allowStacking}</code></td><td> Whether to automatically stack the buttons when there is not
              enough space to lay them out side-by-side.</td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
@@ -9449,7 +9449,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:allowStacking
+          @attr name com.xiaoze.xynote:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -9460,17 +9460,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td> Workaround to read user defined minimum height </td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td> Workaround to read user defined minimum width </td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.mycompany.myapp:cardBackgroundColor}</code></td><td> Background color for CardView.</td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.mycompany.myapp:cardCornerRadius}</code></td><td> Corner radius for CardView.</td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.mycompany.myapp:cardElevation}</code></td><td> Elevation for CardView.</td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.mycompany.myapp:cardMaxElevation}</code></td><td> Maximum Elevation for CardView.</td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.mycompany.myapp:cardPreventCornerOverlap}</code></td><td> Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.mycompany.myapp:cardUseCompatPadding}</code></td><td> Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.mycompany.myapp:contentPadding}</code></td><td> Inner padding between the edges of the Card and children of the CardView.</td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.mycompany.myapp:contentPaddingBottom}</code></td><td> Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.mycompany.myapp:contentPaddingLeft}</code></td><td> Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.mycompany.myapp:contentPaddingRight}</code></td><td> Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.mycompany.myapp:contentPaddingTop}</code></td><td> Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.xiaoze.xynote:cardBackgroundColor}</code></td><td> Background color for CardView.</td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.xiaoze.xynote:cardCornerRadius}</code></td><td> Corner radius for CardView.</td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.xiaoze.xynote:cardElevation}</code></td><td> Elevation for CardView.</td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.xiaoze.xynote:cardMaxElevation}</code></td><td> Maximum Elevation for CardView.</td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.xiaoze.xynote:cardPreventCornerOverlap}</code></td><td> Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.xiaoze.xynote:cardUseCompatPadding}</code></td><td> Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.xiaoze.xynote:contentPadding}</code></td><td> Inner padding between the edges of the Card and children of the CardView.</td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.xiaoze.xynote:contentPaddingBottom}</code></td><td> Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.xiaoze.xynote:contentPaddingLeft}</code></td><td> Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.xiaoze.xynote:contentPaddingRight}</code></td><td> Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.xiaoze.xynote:contentPaddingTop}</code></td><td> Inner padding between the top edge of the Card and children of the CardView.</td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -9524,7 +9524,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardBackgroundColor
+          @attr name com.xiaoze.xynote:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
@@ -9542,7 +9542,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardCornerRadius
+          @attr name com.xiaoze.xynote:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
@@ -9560,7 +9560,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardElevation
+          @attr name com.xiaoze.xynote:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
@@ -9578,7 +9578,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardMaxElevation
+          @attr name com.xiaoze.xynote:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
@@ -9594,7 +9594,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardPreventCornerOverlap
+          @attr name com.xiaoze.xynote:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
@@ -9610,7 +9610,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:cardUseCompatPadding
+          @attr name com.xiaoze.xynote:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
@@ -9628,7 +9628,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentPadding
+          @attr name com.xiaoze.xynote:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
@@ -9646,7 +9646,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentPaddingBottom
+          @attr name com.xiaoze.xynote:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
@@ -9664,7 +9664,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentPaddingLeft
+          @attr name com.xiaoze.xynote:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
@@ -9682,7 +9682,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentPaddingRight
+          @attr name com.xiaoze.xynote:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
@@ -9700,7 +9700,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentPaddingTop
+          @attr name com.xiaoze.xynote:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a Chip.
@@ -9714,35 +9714,35 @@ containing a value of this type.
            <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
            <tr><td><code>{@link #Chip_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_checkedIcon com.mycompany.myapp:checkedIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_checkedIconEnabled com.mycompany.myapp:checkedIconEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_checkedIconVisible com.mycompany.myapp:checkedIconVisible}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipBackgroundColor com.mycompany.myapp:chipBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipCornerRadius com.mycompany.myapp:chipCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipEndPadding com.mycompany.myapp:chipEndPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipIcon com.mycompany.myapp:chipIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipIconEnabled com.mycompany.myapp:chipIconEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipIconSize com.mycompany.myapp:chipIconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipIconTint com.mycompany.myapp:chipIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipIconVisible com.mycompany.myapp:chipIconVisible}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipMinHeight com.mycompany.myapp:chipMinHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipStartPadding com.mycompany.myapp:chipStartPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipStrokeColor com.mycompany.myapp:chipStrokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_chipStrokeWidth com.mycompany.myapp:chipStrokeWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIcon com.mycompany.myapp:closeIcon}</code></td><td> Close button icon </td></tr>
-           <tr><td><code>{@link #Chip_closeIconEnabled com.mycompany.myapp:closeIconEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIconEndPadding com.mycompany.myapp:closeIconEndPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIconSize com.mycompany.myapp:closeIconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIconStartPadding com.mycompany.myapp:closeIconStartPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIconTint com.mycompany.myapp:closeIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_closeIconVisible com.mycompany.myapp:closeIconVisible}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_hideMotionSpec com.mycompany.myapp:hideMotionSpec}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_iconEndPadding com.mycompany.myapp:iconEndPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_iconStartPadding com.mycompany.myapp:iconStartPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_rippleColor com.mycompany.myapp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_showMotionSpec com.mycompany.myapp:showMotionSpec}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_textEndPadding com.mycompany.myapp:textEndPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Chip_textStartPadding com.mycompany.myapp:textStartPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_checkedIcon com.xiaoze.xynote:checkedIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_checkedIconEnabled com.xiaoze.xynote:checkedIconEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_checkedIconVisible com.xiaoze.xynote:checkedIconVisible}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipBackgroundColor com.xiaoze.xynote:chipBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipCornerRadius com.xiaoze.xynote:chipCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipEndPadding com.xiaoze.xynote:chipEndPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipIcon com.xiaoze.xynote:chipIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipIconEnabled com.xiaoze.xynote:chipIconEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipIconSize com.xiaoze.xynote:chipIconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipIconTint com.xiaoze.xynote:chipIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipIconVisible com.xiaoze.xynote:chipIconVisible}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipMinHeight com.xiaoze.xynote:chipMinHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipStartPadding com.xiaoze.xynote:chipStartPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipStrokeColor com.xiaoze.xynote:chipStrokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_chipStrokeWidth com.xiaoze.xynote:chipStrokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIcon com.xiaoze.xynote:closeIcon}</code></td><td> Close button icon </td></tr>
+           <tr><td><code>{@link #Chip_closeIconEnabled com.xiaoze.xynote:closeIconEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIconEndPadding com.xiaoze.xynote:closeIconEndPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIconSize com.xiaoze.xynote:closeIconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIconStartPadding com.xiaoze.xynote:closeIconStartPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIconTint com.xiaoze.xynote:closeIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_closeIconVisible com.xiaoze.xynote:closeIconVisible}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_hideMotionSpec com.xiaoze.xynote:hideMotionSpec}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_iconEndPadding com.xiaoze.xynote:iconEndPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_iconStartPadding com.xiaoze.xynote:iconStartPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_rippleColor com.xiaoze.xynote:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_showMotionSpec com.xiaoze.xynote:showMotionSpec}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_textEndPadding com.xiaoze.xynote:textEndPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Chip_textStartPadding com.xiaoze.xynote:textStartPadding}</code></td><td></td></tr>
            </table>
            @see #Chip_android_checkable
            @see #Chip_android_ellipsize
@@ -9821,17 +9821,17 @@ containing a value of this type.
         */
         public static final int Chip_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#checkedIcon}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#checkedIcon}
           attribute's value can be found in the {@link #Chip} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:checkedIcon
+          @attr name com.xiaoze.xynote:checkedIcon
         */
         public static final int Chip_checkedIcon = 25;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#checkedIconEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#checkedIconEnabled}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9841,11 +9841,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:checkedIconEnabled
+          @attr name com.xiaoze.xynote:checkedIconEnabled
         */
         public static final int Chip_checkedIconEnabled = 24;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#checkedIconVisible}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#checkedIconVisible}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9855,11 +9855,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:checkedIconVisible
+          @attr name com.xiaoze.xynote:checkedIconVisible
         */
         public static final int Chip_checkedIconVisible = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipBackgroundColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipBackgroundColor}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9870,11 +9870,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipBackgroundColor
+          @attr name com.xiaoze.xynote:chipBackgroundColor
         */
         public static final int Chip_chipBackgroundColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipCornerRadius}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipCornerRadius}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9886,11 +9886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipCornerRadius
+          @attr name com.xiaoze.xynote:chipCornerRadius
         */
         public static final int Chip_chipCornerRadius = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipEndPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipEndPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9902,21 +9902,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipEndPadding
+          @attr name com.xiaoze.xynote:chipEndPadding
         */
         public static final int Chip_chipEndPadding = 33;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipIcon}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipIcon}
           attribute's value can be found in the {@link #Chip} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:chipIcon
+          @attr name com.xiaoze.xynote:chipIcon
         */
         public static final int Chip_chipIcon = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipIconEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipIconEnabled}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9926,11 +9926,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipIconEnabled
+          @attr name com.xiaoze.xynote:chipIconEnabled
         */
         public static final int Chip_chipIconEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipIconSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipIconSize}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9942,11 +9942,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipIconSize
+          @attr name com.xiaoze.xynote:chipIconSize
         */
         public static final int Chip_chipIconSize = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipIconTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipIconTint}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9957,11 +9957,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipIconTint
+          @attr name com.xiaoze.xynote:chipIconTint
         */
         public static final int Chip_chipIconTint = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipIconVisible}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipIconVisible}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9971,11 +9971,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipIconVisible
+          @attr name com.xiaoze.xynote:chipIconVisible
         */
         public static final int Chip_chipIconVisible = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipMinHeight}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipMinHeight}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -9987,11 +9987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipMinHeight
+          @attr name com.xiaoze.xynote:chipMinHeight
         */
         public static final int Chip_chipMinHeight = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipStartPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipStartPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10003,11 +10003,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipStartPadding
+          @attr name com.xiaoze.xynote:chipStartPadding
         */
         public static final int Chip_chipStartPadding = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipStrokeColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipStrokeColor}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10018,11 +10018,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipStrokeColor
+          @attr name com.xiaoze.xynote:chipStrokeColor
         */
         public static final int Chip_chipStrokeColor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipStrokeWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipStrokeWidth}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10034,7 +10034,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipStrokeWidth
+          @attr name com.xiaoze.xynote:chipStrokeWidth
         */
         public static final int Chip_chipStrokeWidth = 12;
         /**
@@ -10048,11 +10048,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:closeIcon
+          @attr name com.xiaoze.xynote:closeIcon
         */
         public static final int Chip_closeIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconEnabled}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10062,11 +10062,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconEnabled
+          @attr name com.xiaoze.xynote:closeIconEnabled
         */
         public static final int Chip_closeIconEnabled = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconEndPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconEndPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10078,11 +10078,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconEndPadding
+          @attr name com.xiaoze.xynote:closeIconEndPadding
         */
         public static final int Chip_closeIconEndPadding = 32;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconSize}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10094,11 +10094,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconSize
+          @attr name com.xiaoze.xynote:closeIconSize
         */
         public static final int Chip_closeIconSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconStartPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconStartPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10110,11 +10110,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconStartPadding
+          @attr name com.xiaoze.xynote:closeIconStartPadding
         */
         public static final int Chip_closeIconStartPadding = 31;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconTint}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10125,11 +10125,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconTint
+          @attr name com.xiaoze.xynote:closeIconTint
         */
         public static final int Chip_closeIconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#closeIconVisible}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#closeIconVisible}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10139,21 +10139,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:closeIconVisible
+          @attr name com.xiaoze.xynote:closeIconVisible
         */
         public static final int Chip_closeIconVisible = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hideMotionSpec}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hideMotionSpec}
           attribute's value can be found in the {@link #Chip} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:hideMotionSpec
+          @attr name com.xiaoze.xynote:hideMotionSpec
         */
         public static final int Chip_hideMotionSpec = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#iconEndPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#iconEndPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10165,11 +10165,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:iconEndPadding
+          @attr name com.xiaoze.xynote:iconEndPadding
         */
         public static final int Chip_iconEndPadding = 28;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#iconStartPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#iconStartPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10181,11 +10181,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:iconStartPadding
+          @attr name com.xiaoze.xynote:iconStartPadding
         */
         public static final int Chip_iconStartPadding = 27;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#rippleColor}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10196,21 +10196,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:rippleColor
+          @attr name com.xiaoze.xynote:rippleColor
         */
         public static final int Chip_rippleColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#showMotionSpec}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#showMotionSpec}
           attribute's value can be found in the {@link #Chip} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:showMotionSpec
+          @attr name com.xiaoze.xynote:showMotionSpec
         */
         public static final int Chip_showMotionSpec = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textEndPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textEndPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10222,11 +10222,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:textEndPadding
+          @attr name com.xiaoze.xynote:textEndPadding
         */
         public static final int Chip_textEndPadding = 30;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textStartPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textStartPadding}
           attribute's value can be found in the {@link #Chip} array.
 
 
@@ -10238,7 +10238,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:textStartPadding
+          @attr name com.xiaoze.xynote:textStartPadding
         */
         public static final int Chip_textStartPadding = 29;
         /** Attributes that can be used with a ChipGroup.
@@ -10247,12 +10247,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ChipGroup_checkedChip com.mycompany.myapp:checkedChip}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipGroup_chipSpacing com.mycompany.myapp:chipSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.mycompany.myapp:chipSpacingHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.mycompany.myapp:chipSpacingVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipGroup_singleLine com.mycompany.myapp:singleLine}</code></td><td></td></tr>
-           <tr><td><code>{@link #ChipGroup_singleSelection com.mycompany.myapp:singleSelection}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_checkedChip com.xiaoze.xynote:checkedChip}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_chipSpacing com.xiaoze.xynote:chipSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.xiaoze.xynote:chipSpacingHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.xiaoze.xynote:chipSpacingVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_singleLine com.xiaoze.xynote:singleLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #ChipGroup_singleSelection com.xiaoze.xynote:singleSelection}</code></td><td></td></tr>
            </table>
            @see #ChipGroup_checkedChip
            @see #ChipGroup_chipSpacing
@@ -10266,17 +10266,17 @@ containing a value of this type.
             0x7f01006a, 0x7f01006b
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#checkedChip}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#checkedChip}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:checkedChip
+          @attr name com.xiaoze.xynote:checkedChip
         */
         public static final int ChipGroup_checkedChip = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipSpacing}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipSpacing}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
@@ -10288,11 +10288,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipSpacing
+          @attr name com.xiaoze.xynote:chipSpacing
         */
         public static final int ChipGroup_chipSpacing = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipSpacingHorizontal}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipSpacingHorizontal}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
@@ -10304,11 +10304,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipSpacingHorizontal
+          @attr name com.xiaoze.xynote:chipSpacingHorizontal
         */
         public static final int ChipGroup_chipSpacingHorizontal = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipSpacingVertical}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipSpacingVertical}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
@@ -10320,11 +10320,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:chipSpacingVertical
+          @attr name com.xiaoze.xynote:chipSpacingVertical
         */
         public static final int ChipGroup_chipSpacingVertical = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#singleLine}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#singleLine}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
@@ -10334,11 +10334,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:singleLine
+          @attr name com.xiaoze.xynote:singleLine
         */
         public static final int ChipGroup_singleLine = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#singleSelection}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#singleSelection}
           attribute's value can be found in the {@link #ChipGroup} array.
 
 
@@ -10348,7 +10348,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:singleSelection
+          @attr name com.xiaoze.xynote:singleSelection
         */
         public static final int ChipGroup_singleSelection = 4;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -10357,22 +10357,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.mycompany.myapp:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.mycompany.myapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.mycompany.myapp:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.mycompany.myapp:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.mycompany.myapp:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.mycompany.myapp:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.mycompany.myapp:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.mycompany.myapp:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.mycompany.myapp:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.mycompany.myapp:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.mycompany.myapp:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.mycompany.myapp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.mycompany.myapp:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.mycompany.myapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.mycompany.myapp:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.mycompany.myapp:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.xiaoze.xynote:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.xiaoze.xynote:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.xiaoze.xynote:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.xiaoze.xynote:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.xiaoze.xynote:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.xiaoze.xynote:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.xiaoze.xynote:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.xiaoze.xynote:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.xiaoze.xynote:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.xiaoze.xynote:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.xiaoze.xynote:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.xiaoze.xynote:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.xiaoze.xynote:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.xiaoze.xynote:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.xiaoze.xynote:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.xiaoze.xynote:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -10398,7 +10398,7 @@ containing a value of this type.
             0x7f010078, 0x7f010079, 0x7f01007a, 0x7f0100e8
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10419,21 +10419,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:collapsedTitleGravity
+          @attr name com.xiaoze.xynote:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:collapsedTitleTextAppearance
+          @attr name com.xiaoze.xynote:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10444,11 +10444,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:contentScrim
+          @attr name com.xiaoze.xynote:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10469,11 +10469,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:expandedTitleGravity
+          @attr name com.xiaoze.xynote:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10485,11 +10485,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expandedTitleMargin
+          @attr name com.xiaoze.xynote:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10501,11 +10501,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expandedTitleMarginBottom
+          @attr name com.xiaoze.xynote:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10517,11 +10517,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expandedTitleMarginEnd
+          @attr name com.xiaoze.xynote:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10533,11 +10533,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expandedTitleMarginStart
+          @attr name com.xiaoze.xynote:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10549,21 +10549,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:expandedTitleMarginTop
+          @attr name com.xiaoze.xynote:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:expandedTitleTextAppearance
+          @attr name com.xiaoze.xynote:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10573,11 +10573,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:scrimAnimationDuration
+          @attr name com.xiaoze.xynote:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10589,11 +10589,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:scrimVisibleHeightTrigger
+          @attr name com.xiaoze.xynote:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10604,11 +10604,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:statusBarScrim
+          @attr name com.xiaoze.xynote:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#title}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10618,11 +10618,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:title
+          @attr name com.xiaoze.xynote:title
         */
         public static final int CollapsingToolbarLayout_title = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10632,17 +10632,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:titleEnabled
+          @attr name com.xiaoze.xynote:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:toolbarId
+          @attr name com.xiaoze.xynote:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -10651,8 +10651,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.mycompany.myapp:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.mycompany.myapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.xiaoze.xynote:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.xiaoze.xynote:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -10661,7 +10661,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01007b, 0x7f01007c
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -10675,11 +10675,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:layout_collapseMode
+          @attr name com.xiaoze.xynote:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -10689,7 +10689,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:layout_collapseParallaxMultiplier
+          @attr name com.xiaoze.xynote:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -10698,7 +10698,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.mycompany.myapp:alpha}</code></td><td> Alpha multiplier applied to the base color.</td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.xiaoze.xynote:alpha}</code></td><td> Alpha multiplier applied to the base color.</td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td> Base color for this state.</td></tr>
            </table>
@@ -10722,7 +10722,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:alpha
+          @attr name com.xiaoze.xynote:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -10747,8 +10747,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.mycompany.myapp:buttonTint}</code></td><td> Tint to apply to the button drawable.</td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.mycompany.myapp:buttonTintMode}</code></td><td> Blending mode used to apply the button tint.</td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.xiaoze.xynote:buttonTint}</code></td><td> Tint to apply to the button drawable.</td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.xiaoze.xynote:buttonTintMode}</code></td><td> Blending mode used to apply the button tint.</td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -10777,7 +10777,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonTint
+          @attr name com.xiaoze.xynote:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
@@ -10805,7 +10805,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:buttonTintMode
+          @attr name com.xiaoze.xynote:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -10814,9 +10814,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.mycompany.myapp:keylines}</code></td><td> A reference to an array of integers representing the
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.xiaoze.xynote:keylines}</code></td><td> A reference to an array of integers representing the
              locations of horizontal keylines in dp from the starting edge.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.mycompany.myapp:statusBarBackground}</code></td><td> Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.xiaoze.xynote:statusBarBackground}</code></td><td> Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -10837,7 +10837,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:keylines
+          @attr name com.xiaoze.xynote:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
@@ -10851,7 +10851,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:statusBarBackground
+          @attr name com.xiaoze.xynote:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -10861,15 +10861,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.mycompany.myapp:layout_anchor}</code></td><td> The id of an anchor view that this view should position relative to.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.mycompany.myapp:layout_anchorGravity}</code></td><td> Specifies how an object should position relative to an anchor, on both the X and Y axes,
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.xiaoze.xynote:layout_anchor}</code></td><td> The id of an anchor view that this view should position relative to.</td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.xiaoze.xynote:layout_anchorGravity}</code></td><td> Specifies how an object should position relative to an anchor, on both the X and Y axes,
              within its parent's bounds.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.mycompany.myapp:layout_behavior}</code></td><td> The class name of a Behavior class defining special runtime behavior
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.xiaoze.xynote:layout_behavior}</code></td><td> The class name of a Behavior class defining special runtime behavior
              for this child view.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.mycompany.myapp:layout_dodgeInsetEdges}</code></td><td> Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.mycompany.myapp:layout_insetEdge}</code></td><td> Specifies how this view insets the CoordinatorLayout and make some other views
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.xiaoze.xynote:layout_dodgeInsetEdges}</code></td><td> Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.xiaoze.xynote:layout_insetEdge}</code></td><td> Specifies how this view insets the CoordinatorLayout and make some other views
              dodge it.</td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.mycompany.myapp:layout_keyline}</code></td><td> The index of a keyline this view should position relative to.</td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.xiaoze.xynote:layout_keyline}</code></td><td> The index of a keyline this view should position relative to.</td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -10898,7 +10898,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_anchor
+          @attr name com.xiaoze.xynote:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
@@ -10936,7 +10936,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>0x00800005</td><td> Push object to the end of its container, not changing its size. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_anchorGravity
+          @attr name com.xiaoze.xynote:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
@@ -10953,7 +10953,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_behavior
+          @attr name com.xiaoze.xynote:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
@@ -10978,7 +10978,7 @@ containing a value of this type.
 <tr><td><code>all</code></td><td>0x77</td><td> Dodge all the inset edges. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_dodgeInsetEdges
+          @attr name com.xiaoze.xynote:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
@@ -11003,7 +11003,7 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td> Inset the end edge. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_insetEdge
+          @attr name com.xiaoze.xynote:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
@@ -11021,7 +11021,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout_keyline
+          @attr name com.xiaoze.xynote:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -11030,8 +11030,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.mycompany.myapp:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.mycompany.myapp:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.xiaoze.xynote:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.xiaoze.xynote:bottomSheetStyle}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -11040,23 +11040,23 @@ containing a value of this type.
             0x7f010017, 0x7f010018
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:bottomSheetDialogTheme
+          @attr name com.xiaoze.xynote:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:bottomSheetStyle
+          @attr name com.xiaoze.xynote:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -11065,14 +11065,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.mycompany.myapp:arrowHeadLength}</code></td><td> The length of the arrow head when formed to make an arrow </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.mycompany.myapp:arrowShaftLength}</code></td><td> The length of the shaft when formed to make an arrow </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.mycompany.myapp:barLength}</code></td><td> The length of the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.mycompany.myapp:color}</code></td><td> The drawing color for the bars </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.mycompany.myapp:drawableSize}</code></td><td> The total size of the drawable </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.mycompany.myapp:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.mycompany.myapp:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.mycompany.myapp:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.xiaoze.xynote:arrowHeadLength}</code></td><td> The length of the arrow head when formed to make an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.xiaoze.xynote:arrowShaftLength}</code></td><td> The length of the shaft when formed to make an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.xiaoze.xynote:barLength}</code></td><td> The length of the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.xiaoze.xynote:color}</code></td><td> The drawing color for the bars </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.xiaoze.xynote:drawableSize}</code></td><td> The total size of the drawable </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.xiaoze.xynote:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.xiaoze.xynote:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.xiaoze.xynote:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -11102,7 +11102,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:arrowHeadLength
+          @attr name com.xiaoze.xynote:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
@@ -11120,7 +11120,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:arrowShaftLength
+          @attr name com.xiaoze.xynote:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
@@ -11138,7 +11138,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:barLength
+          @attr name com.xiaoze.xynote:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
@@ -11155,7 +11155,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:color
+          @attr name com.xiaoze.xynote:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
@@ -11173,7 +11173,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:drawableSize
+          @attr name com.xiaoze.xynote:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
@@ -11191,7 +11191,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:gapBetweenBars
+          @attr name com.xiaoze.xynote:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
@@ -11207,7 +11207,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:spinBars
+          @attr name com.xiaoze.xynote:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
@@ -11225,7 +11225,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:thickness
+          @attr name com.xiaoze.xynote:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -11234,19 +11234,19 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.mycompany.myapp:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.mycompany.myapp:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.mycompany.myapp:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.mycompany.myapp:fabCustomSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.mycompany.myapp:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.mycompany.myapp:hideMotionSpec}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.mycompany.myapp:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_maxImageSize com.mycompany.myapp:maxImageSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.mycompany.myapp:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.mycompany.myapp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.mycompany.myapp:showMotionSpec}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.mycompany.myapp:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.xiaoze.xynote:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.xiaoze.xynote:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.xiaoze.xynote:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.xiaoze.xynote:fabCustomSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.xiaoze.xynote:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.xiaoze.xynote:hideMotionSpec}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.xiaoze.xynote:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_maxImageSize com.xiaoze.xynote:maxImageSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.xiaoze.xynote:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.xiaoze.xynote:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.xiaoze.xynote:showMotionSpec}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.xiaoze.xynote:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -11282,7 +11282,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTint
+          @attr name com.xiaoze.xynote:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 11;
         /**
@@ -11310,11 +11310,11 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTintMode
+          @attr name com.xiaoze.xynote:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11326,7 +11326,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:borderWidth
+          @attr name com.xiaoze.xynote:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 7;
         /**
@@ -11344,11 +11344,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int FloatingActionButton_elevation = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabCustomSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabCustomSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11360,11 +11360,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:fabCustomSize
+          @attr name com.xiaoze.xynote:fabCustomSize
         */
         public static final int FloatingActionButton_fabCustomSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11378,21 +11378,21 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:fabSize
+          @attr name com.xiaoze.xynote:fabSize
         */
         public static final int FloatingActionButton_fabSize = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hideMotionSpec}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hideMotionSpec}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:hideMotionSpec
+          @attr name com.xiaoze.xynote:hideMotionSpec
         */
         public static final int FloatingActionButton_hideMotionSpec = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hoveredFocusedTranslationZ}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hoveredFocusedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11404,11 +11404,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:hoveredFocusedTranslationZ
+          @attr name com.xiaoze.xynote:hoveredFocusedTranslationZ
         */
         public static final int FloatingActionButton_hoveredFocusedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#maxImageSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#maxImageSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11420,11 +11420,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:maxImageSize
+          @attr name com.xiaoze.xynote:maxImageSize
         */
         public static final int FloatingActionButton_maxImageSize = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11436,11 +11436,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:pressedTranslationZ
+          @attr name com.xiaoze.xynote:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11451,21 +11451,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:rippleColor
+          @attr name com.xiaoze.xynote:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#showMotionSpec}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#showMotionSpec}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:showMotionSpec
+          @attr name com.xiaoze.xynote:showMotionSpec
         */
         public static final int FloatingActionButton_showMotionSpec = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11475,7 +11475,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:useCompatPadding
+          @attr name com.xiaoze.xynote:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 8;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -11484,7 +11484,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.mycompany.myapp:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.xiaoze.xynote:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -11492,7 +11492,7 @@ containing a value of this type.
             0x7f010084
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -11502,7 +11502,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:behavior_autoHide
+          @attr name com.xiaoze.xynote:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a FlowLayout.
@@ -11511,8 +11511,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FlowLayout_itemSpacing com.mycompany.myapp:itemSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #FlowLayout_lineSpacing com.mycompany.myapp:lineSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #FlowLayout_itemSpacing com.xiaoze.xynote:itemSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #FlowLayout_lineSpacing com.xiaoze.xynote:lineSpacing}</code></td><td></td></tr>
            </table>
            @see #FlowLayout_itemSpacing
            @see #FlowLayout_lineSpacing
@@ -11521,7 +11521,7 @@ containing a value of this type.
             0x7f010085, 0x7f010086
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemSpacing}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemSpacing}
           attribute's value can be found in the {@link #FlowLayout} array.
 
 
@@ -11533,11 +11533,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemSpacing
+          @attr name com.xiaoze.xynote:itemSpacing
         */
         public static final int FlowLayout_itemSpacing = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#lineSpacing}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#lineSpacing}
           attribute's value can be found in the {@link #FlowLayout} array.
 
 
@@ -11549,7 +11549,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:lineSpacing
+          @attr name com.xiaoze.xynote:lineSpacing
         */
         public static final int FlowLayout_lineSpacing = 1;
         /** Attributes that can be used with a FontFamily.
@@ -11558,12 +11558,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderAuthority com.mycompany.myapp:fontProviderAuthority}</code></td><td> The authority of the Font Provider to be used for the request.</td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderCerts com.mycompany.myapp:fontProviderCerts}</code></td><td> The sets of hashes for the certificates the provider should be signed with.</td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.mycompany.myapp:fontProviderFetchStrategy}</code></td><td> The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.mycompany.myapp:fontProviderFetchTimeout}</code></td><td> The length of the timeout during fetching.</td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderPackage com.mycompany.myapp:fontProviderPackage}</code></td><td> The package for the Font Provider to be used for the request.</td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderQuery com.mycompany.myapp:fontProviderQuery}</code></td><td> The query to be sent over to the provider.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderAuthority com.xiaoze.xynote:fontProviderAuthority}</code></td><td> The authority of the Font Provider to be used for the request.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderCerts com.xiaoze.xynote:fontProviderCerts}</code></td><td> The sets of hashes for the certificates the provider should be signed with.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.xiaoze.xynote:fontProviderFetchStrategy}</code></td><td> The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.xiaoze.xynote:fontProviderFetchTimeout}</code></td><td> The length of the timeout during fetching.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderPackage com.xiaoze.xynote:fontProviderPackage}</code></td><td> The package for the Font Provider to be used for the request.</td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderQuery com.xiaoze.xynote:fontProviderQuery}</code></td><td> The query to be sent over to the provider.</td></tr>
            </table>
            @see #FontFamily_fontProviderAuthority
            @see #FontFamily_fontProviderCerts
@@ -11589,7 +11589,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderAuthority
+          @attr name com.xiaoze.xynote:fontProviderAuthority
         */
         public static final int FontFamily_fontProviderAuthority = 0;
         /**
@@ -11605,7 +11605,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderCerts
+          @attr name com.xiaoze.xynote:fontProviderCerts
         */
         public static final int FontFamily_fontProviderCerts = 3;
         /**
@@ -11638,7 +11638,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
               fontProviderFetchTimeout will be ignored if async loading is specified. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderFetchStrategy
+          @attr name com.xiaoze.xynote:fontProviderFetchStrategy
         */
         public static final int FontFamily_fontProviderFetchStrategy = 4;
         /**
@@ -11663,7 +11663,7 @@ containing a value of this type.
               timeout and wait until a reply is received from the font provider. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderFetchTimeout
+          @attr name com.xiaoze.xynote:fontProviderFetchTimeout
         */
         public static final int FontFamily_fontProviderFetchTimeout = 5;
         /**
@@ -11680,7 +11680,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderPackage
+          @attr name com.xiaoze.xynote:fontProviderPackage
         */
         public static final int FontFamily_fontProviderPackage = 1;
         /**
@@ -11697,7 +11697,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontProviderQuery
+          @attr name com.xiaoze.xynote:fontProviderQuery
         */
         public static final int FontFamily_fontProviderQuery = 2;
         /** Attributes that can be used with a FontFamilyFont.
@@ -11711,11 +11711,11 @@ containing a value of this type.
            <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_font com.mycompany.myapp:font}</code></td><td> The reference to the font file to be used.</td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontStyle com.mycompany.myapp:fontStyle}</code></td><td> The style of the given font file.</td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.mycompany.myapp:fontVariationSettings}</code></td><td> The variation settings to be applied to the font.</td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontWeight com.mycompany.myapp:fontWeight}</code></td><td> The weight of the given font file.</td></tr>
-           <tr><td><code>{@link #FontFamilyFont_ttcIndex com.mycompany.myapp:ttcIndex}</code></td><td> The index of the font in the tcc font file.</td></tr>
+           <tr><td><code>{@link #FontFamilyFont_font com.xiaoze.xynote:font}</code></td><td> The reference to the font file to be used.</td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontStyle com.xiaoze.xynote:fontStyle}</code></td><td> The style of the given font file.</td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.xiaoze.xynote:fontVariationSettings}</code></td><td> The variation settings to be applied to the font.</td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontWeight com.xiaoze.xynote:fontWeight}</code></td><td> The weight of the given font file.</td></tr>
+           <tr><td><code>{@link #FontFamilyFont_ttcIndex com.xiaoze.xynote:ttcIndex}</code></td><td> The index of the font in the tcc font file.</td></tr>
            </table>
            @see #FontFamilyFont_android_font
            @see #FontFamilyFont_android_fontStyle
@@ -11776,7 +11776,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:font
+          @attr name com.xiaoze.xynote:font
         */
         public static final int FontFamilyFont_font = 6;
         /**
@@ -11797,7 +11797,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>italic</code></td><td>1</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontStyle
+          @attr name com.xiaoze.xynote:fontStyle
         */
         public static final int FontFamilyFont_fontStyle = 5;
         /**
@@ -11816,7 +11816,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontVariationSettings
+          @attr name com.xiaoze.xynote:fontVariationSettings
         */
         public static final int FontFamilyFont_fontVariationSettings = 8;
         /**
@@ -11836,7 +11836,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontWeight
+          @attr name com.xiaoze.xynote:fontWeight
         */
         public static final int FontFamilyFont_fontWeight = 7;
         /**
@@ -11853,7 +11853,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:ttcIndex
+          @attr name com.xiaoze.xynote:ttcIndex
         */
         public static final int FontFamilyFont_ttcIndex = 9;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -11864,7 +11864,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.mycompany.myapp:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.xiaoze.xynote:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11886,7 +11886,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -11896,9 +11896,14 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:foregroundInsidePadding
+          @attr name com.xiaoze.xynote:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
+        /** Attributes that can be used with a GapBottomNavigation.
+         */
+        public static final int[] GapBottomNavigation = {
+            
+        };
         /** Attributes that can be used with a GradientColor.
            <p>Includes the following attributes:</p>
            <table>
@@ -12103,11 +12108,11 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td> Should the layout be a column or a row?  Use "horizontal"
              for a row, "vertical" for a column.</td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td> Defines the maximum weight sum.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.mycompany.myapp:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.mycompany.myapp:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.mycompany.myapp:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.xiaoze.xynote:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.xiaoze.xynote:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.xiaoze.xynote:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
              the minimum size of the largest child.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.mycompany.myapp:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.xiaoze.xynote:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -12185,7 +12190,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:divider
+          @attr name com.xiaoze.xynote:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
@@ -12203,7 +12208,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:dividerPadding
+          @attr name com.xiaoze.xynote:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
@@ -12221,7 +12226,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:measureWithLargestChild
+          @attr name com.xiaoze.xynote:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
@@ -12242,7 +12247,7 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:showDividers
+          @attr name com.xiaoze.xynote:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -12331,18 +12336,18 @@ containing a value of this type.
            <tr><td><code>{@link #MaterialButton_android_insetLeft android:insetLeft}</code></td><td></td></tr>
            <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
            <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_backgroundTint com.mycompany.myapp:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #MaterialButton_backgroundTintMode com.mycompany.myapp:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
-           <tr><td><code>{@link #MaterialButton_cornerRadius com.mycompany.myapp:cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_icon com.mycompany.myapp:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
-           <tr><td><code>{@link #MaterialButton_iconGravity com.mycompany.myapp:iconGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_iconPadding com.mycompany.myapp:iconPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_iconSize com.mycompany.myapp:iconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_iconTint com.mycompany.myapp:iconTint}</code></td><td> Tint to apply to the icon.</td></tr>
-           <tr><td><code>{@link #MaterialButton_iconTintMode com.mycompany.myapp:iconTintMode}</code></td><td> Blending mode used to apply the icon tint.</td></tr>
-           <tr><td><code>{@link #MaterialButton_rippleColor com.mycompany.myapp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_strokeColor com.mycompany.myapp:strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialButton_strokeWidth com.mycompany.myapp:strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_backgroundTint com.xiaoze.xynote:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #MaterialButton_backgroundTintMode com.xiaoze.xynote:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
+           <tr><td><code>{@link #MaterialButton_cornerRadius com.xiaoze.xynote:cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_icon com.xiaoze.xynote:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
+           <tr><td><code>{@link #MaterialButton_iconGravity com.xiaoze.xynote:iconGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_iconPadding com.xiaoze.xynote:iconPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_iconSize com.xiaoze.xynote:iconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_iconTint com.xiaoze.xynote:iconTint}</code></td><td> Tint to apply to the icon.</td></tr>
+           <tr><td><code>{@link #MaterialButton_iconTintMode com.xiaoze.xynote:iconTintMode}</code></td><td> Blending mode used to apply the icon tint.</td></tr>
+           <tr><td><code>{@link #MaterialButton_rippleColor com.xiaoze.xynote:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_strokeColor com.xiaoze.xynote:strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialButton_strokeWidth com.xiaoze.xynote:strokeWidth}</code></td><td></td></tr>
            </table>
            @see #MaterialButton_android_insetBottom
            @see #MaterialButton_android_insetLeft
@@ -12405,7 +12410,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTint
+          @attr name com.xiaoze.xynote:backgroundTint
         */
         public static final int MaterialButton_backgroundTint = 14;
         /**
@@ -12433,11 +12438,11 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTintMode
+          @attr name com.xiaoze.xynote:backgroundTintMode
         */
         public static final int MaterialButton_backgroundTintMode = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#cornerRadius}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#cornerRadius}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12449,7 +12454,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:cornerRadius
+          @attr name com.xiaoze.xynote:cornerRadius
         */
         public static final int MaterialButton_cornerRadius = 12;
         /**
@@ -12463,11 +12468,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:icon
+          @attr name com.xiaoze.xynote:icon
         */
         public static final int MaterialButton_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#iconGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#iconGravity}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12480,11 +12485,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x1</td><td></td></tr>
 <tr><td><code>textStart</code></td><td>0x2</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:iconGravity
+          @attr name com.xiaoze.xynote:iconGravity
         */
         public static final int MaterialButton_iconGravity = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#iconPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#iconPadding}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12496,11 +12501,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:iconPadding
+          @attr name com.xiaoze.xynote:iconPadding
         */
         public static final int MaterialButton_iconPadding = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#iconSize}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#iconSize}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12512,7 +12517,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:iconSize
+          @attr name com.xiaoze.xynote:iconSize
         */
         public static final int MaterialButton_iconSize = 8;
         /**
@@ -12536,7 +12541,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:iconTint
+          @attr name com.xiaoze.xynote:iconTint
         */
         public static final int MaterialButton_iconTint = 11;
         /**
@@ -12564,11 +12569,11 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:iconTintMode
+          @attr name com.xiaoze.xynote:iconTintMode
         */
         public static final int MaterialButton_iconTintMode = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#rippleColor}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12579,11 +12584,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:rippleColor
+          @attr name com.xiaoze.xynote:rippleColor
         */
         public static final int MaterialButton_rippleColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#strokeColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#strokeColor}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12594,11 +12599,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:strokeColor
+          @attr name com.xiaoze.xynote:strokeColor
         */
         public static final int MaterialButton_strokeColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#strokeWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#strokeWidth}
           attribute's value can be found in the {@link #MaterialButton} array.
 
 
@@ -12610,7 +12615,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:strokeWidth
+          @attr name com.xiaoze.xynote:strokeWidth
         */
         public static final int MaterialButton_strokeWidth = 6;
         /** Attributes that can be used with a MaterialCardView.
@@ -12619,8 +12624,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MaterialCardView_strokeColor com.mycompany.myapp:strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialCardView_strokeWidth com.mycompany.myapp:strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialCardView_strokeColor com.xiaoze.xynote:strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialCardView_strokeWidth com.xiaoze.xynote:strokeWidth}</code></td><td></td></tr>
            </table>
            @see #MaterialCardView_strokeColor
            @see #MaterialCardView_strokeWidth
@@ -12629,7 +12634,7 @@ containing a value of this type.
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#strokeColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#strokeColor}
           attribute's value can be found in the {@link #MaterialCardView} array.
 
 
@@ -12640,11 +12645,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:strokeColor
+          @attr name com.xiaoze.xynote:strokeColor
         */
         public static final int MaterialCardView_strokeColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#strokeWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#strokeWidth}
           attribute's value can be found in the {@link #MaterialCardView} array.
 
 
@@ -12656,7 +12661,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:strokeWidth
+          @attr name com.xiaoze.xynote:strokeWidth
         */
         public static final int MaterialCardView_strokeWidth = 1;
         /** Attributes that can be used with a MaterialComponentsTheme.
@@ -12665,38 +12670,38 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.mycompany.myapp:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.mycompany.myapp:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.mycompany.myapp:chipGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.mycompany.myapp:chipStandaloneStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.mycompany.myapp:chipStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.mycompany.myapp:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.mycompany.myapp:colorBackgroundFloating}</code></td><td> Default color of background imagery for floating components, ex.</td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.mycompany.myapp:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.mycompany.myapp:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.mycompany.myapp:colorSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.mycompany.myapp:editTextStyle}</code></td><td> Default EditText style.</td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.mycompany.myapp:floatingActionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.mycompany.myapp:materialButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.mycompany.myapp:materialCardViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.mycompany.myapp:navigationViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.mycompany.myapp:scrimBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.mycompany.myapp:snackbarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.mycompany.myapp:tabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.mycompany.myapp:textAppearanceBody1}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.mycompany.myapp:textAppearanceBody2}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.mycompany.myapp:textAppearanceButton}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.mycompany.myapp:textAppearanceCaption}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.mycompany.myapp:textAppearanceHeadline1}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.mycompany.myapp:textAppearanceHeadline2}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.mycompany.myapp:textAppearanceHeadline3}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.mycompany.myapp:textAppearanceHeadline4}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.mycompany.myapp:textAppearanceHeadline5}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.mycompany.myapp:textAppearanceHeadline6}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.mycompany.myapp:textAppearanceOverline}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.mycompany.myapp:textAppearanceSubtitle1}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.mycompany.myapp:textAppearanceSubtitle2}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.mycompany.myapp:textInputStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.xiaoze.xynote:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.xiaoze.xynote:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.xiaoze.xynote:chipGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.xiaoze.xynote:chipStandaloneStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.xiaoze.xynote:chipStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.xiaoze.xynote:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.xiaoze.xynote:colorBackgroundFloating}</code></td><td> Default color of background imagery for floating components, ex.</td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.xiaoze.xynote:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.xiaoze.xynote:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.xiaoze.xynote:colorSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.xiaoze.xynote:editTextStyle}</code></td><td> Default EditText style.</td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.xiaoze.xynote:floatingActionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.xiaoze.xynote:materialButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.xiaoze.xynote:materialCardViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.xiaoze.xynote:navigationViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.xiaoze.xynote:scrimBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.xiaoze.xynote:snackbarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.xiaoze.xynote:tabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.xiaoze.xynote:textAppearanceBody1}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.xiaoze.xynote:textAppearanceBody2}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.xiaoze.xynote:textAppearanceButton}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.xiaoze.xynote:textAppearanceCaption}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.xiaoze.xynote:textAppearanceHeadline1}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.xiaoze.xynote:textAppearanceHeadline2}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.xiaoze.xynote:textAppearanceHeadline3}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.xiaoze.xynote:textAppearanceHeadline4}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.xiaoze.xynote:textAppearanceHeadline5}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.xiaoze.xynote:textAppearanceHeadline6}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.xiaoze.xynote:textAppearanceOverline}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.xiaoze.xynote:textAppearanceSubtitle1}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.xiaoze.xynote:textAppearanceSubtitle2}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.xiaoze.xynote:textInputStyle}</code></td><td></td></tr>
            </table>
            @see #MaterialComponentsTheme_bottomSheetDialogTheme
            @see #MaterialComponentsTheme_bottomSheetStyle
@@ -12742,53 +12747,53 @@ containing a value of this type.
             0x7f010170, 0x7f010171, 0x7f010178, 0x7f010186
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:bottomSheetDialogTheme
+          @attr name com.xiaoze.xynote:bottomSheetDialogTheme
         */
         public static final int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:bottomSheetStyle
+          @attr name com.xiaoze.xynote:bottomSheetStyle
         */
         public static final int MaterialComponentsTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipGroupStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipGroupStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:chipGroupStyle
+          @attr name com.xiaoze.xynote:chipGroupStyle
         */
         public static final int MaterialComponentsTheme_chipGroupStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipStandaloneStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipStandaloneStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:chipStandaloneStyle
+          @attr name com.xiaoze.xynote:chipStandaloneStyle
         */
         public static final int MaterialComponentsTheme_chipStandaloneStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#chipStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#chipStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:chipStyle
+          @attr name com.xiaoze.xynote:chipStyle
         */
         public static final int MaterialComponentsTheme_chipStyle = 4;
         /**
@@ -12806,7 +12811,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorAccent
+          @attr name com.xiaoze.xynote:colorAccent
         */
         public static final int MaterialComponentsTheme_colorAccent = 29;
         /**
@@ -12823,7 +12828,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorBackgroundFloating
+          @attr name com.xiaoze.xynote:colorBackgroundFloating
         */
         public static final int MaterialComponentsTheme_colorBackgroundFloating = 30;
         /**
@@ -12841,7 +12846,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorPrimary
+          @attr name com.xiaoze.xynote:colorPrimary
         */
         public static final int MaterialComponentsTheme_colorPrimary = 27;
         /**
@@ -12859,11 +12864,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:colorPrimaryDark
+          @attr name com.xiaoze.xynote:colorPrimaryDark
         */
         public static final int MaterialComponentsTheme_colorPrimaryDark = 28;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#colorSecondary}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#colorSecondary}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
@@ -12874,7 +12879,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:colorSecondary
+          @attr name com.xiaoze.xynote:colorSecondary
         */
         public static final int MaterialComponentsTheme_colorSecondary = 5;
         /**
@@ -12886,11 +12891,11 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:editTextStyle
+          @attr name com.xiaoze.xynote:editTextStyle
         */
         public static final int MaterialComponentsTheme_editTextStyle = 31;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#floatingActionButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#floatingActionButtonStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
@@ -12908,41 +12913,41 @@ in (inches), mm (millimeters).
 <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
 The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
 some parent container.
-          @attr name com.mycompany.myapp:floatingActionButtonStyle
+          @attr name com.xiaoze.xynote:floatingActionButtonStyle
         */
         public static final int MaterialComponentsTheme_floatingActionButtonStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#materialButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#materialButtonStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:materialButtonStyle
+          @attr name com.xiaoze.xynote:materialButtonStyle
         */
         public static final int MaterialComponentsTheme_materialButtonStyle = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#materialCardViewStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#materialCardViewStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:materialCardViewStyle
+          @attr name com.xiaoze.xynote:materialCardViewStyle
         */
         public static final int MaterialComponentsTheme_materialCardViewStyle = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#navigationViewStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#navigationViewStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:navigationViewStyle
+          @attr name com.xiaoze.xynote:navigationViewStyle
         */
         public static final int MaterialComponentsTheme_navigationViewStyle = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#scrimBackground}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#scrimBackground}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
@@ -12950,167 +12955,167 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mycompany.myapp:scrimBackground
+          @attr name com.xiaoze.xynote:scrimBackground
         */
         public static final int MaterialComponentsTheme_scrimBackground = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#snackbarButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#snackbarButtonStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:snackbarButtonStyle
+          @attr name com.xiaoze.xynote:snackbarButtonStyle
         */
         public static final int MaterialComponentsTheme_snackbarButtonStyle = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:tabStyle
+          @attr name com.xiaoze.xynote:tabStyle
         */
         public static final int MaterialComponentsTheme_tabStyle = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceBody1}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceBody1}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceBody1
+          @attr name com.xiaoze.xynote:textAppearanceBody1
         */
         public static final int MaterialComponentsTheme_textAppearanceBody1 = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceBody2}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceBody2}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceBody2
+          @attr name com.xiaoze.xynote:textAppearanceBody2
         */
         public static final int MaterialComponentsTheme_textAppearanceBody2 = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceButton}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceButton}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceButton
+          @attr name com.xiaoze.xynote:textAppearanceButton
         */
         public static final int MaterialComponentsTheme_textAppearanceButton = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceCaption}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceCaption}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceCaption
+          @attr name com.xiaoze.xynote:textAppearanceCaption
         */
         public static final int MaterialComponentsTheme_textAppearanceCaption = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline1}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline1}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline1
+          @attr name com.xiaoze.xynote:textAppearanceHeadline1
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline1 = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline2}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline2}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline2
+          @attr name com.xiaoze.xynote:textAppearanceHeadline2
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline2 = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline3}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline3}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline3
+          @attr name com.xiaoze.xynote:textAppearanceHeadline3
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline3 = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline4}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline4}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline4
+          @attr name com.xiaoze.xynote:textAppearanceHeadline4
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline4 = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline5}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline5}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline5
+          @attr name com.xiaoze.xynote:textAppearanceHeadline5
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline5 = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceHeadline6}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceHeadline6}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceHeadline6
+          @attr name com.xiaoze.xynote:textAppearanceHeadline6
         */
         public static final int MaterialComponentsTheme_textAppearanceHeadline6 = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceOverline}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceOverline}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceOverline
+          @attr name com.xiaoze.xynote:textAppearanceOverline
         */
         public static final int MaterialComponentsTheme_textAppearanceOverline = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceSubtitle1}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceSubtitle1}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceSubtitle1
+          @attr name com.xiaoze.xynote:textAppearanceSubtitle1
         */
         public static final int MaterialComponentsTheme_textAppearanceSubtitle1 = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textAppearanceSubtitle2}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textAppearanceSubtitle2}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textAppearanceSubtitle2
+          @attr name com.xiaoze.xynote:textAppearanceSubtitle2
         */
         public static final int MaterialComponentsTheme_textAppearanceSubtitle2 = 24;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#textInputStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#textInputStyle}
           attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:textInputStyle
+          @attr name com.xiaoze.xynote:textInputStyle
         */
         public static final int MaterialComponentsTheme_textInputStyle = 25;
         /** Attributes that can be used with a MenuGroup.
@@ -13199,12 +13204,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.mycompany.myapp:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.mycompany.myapp:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
+           <tr><td><code>{@link #MenuItem_actionLayout com.xiaoze.xynote:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.xiaoze.xynote:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
              and perform operations such as default action for that menu item.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.mycompany.myapp:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
+           <tr><td><code>{@link #MenuItem_actionViewClass com.xiaoze.xynote:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
              action view.</td></tr>
-           <tr><td><code>{@link #MenuItem_alphabeticModifiers com.mycompany.myapp:alphabeticModifiers}</code></td><td> The alphabetic modifier key.</td></tr>
+           <tr><td><code>{@link #MenuItem_alphabeticModifiers com.xiaoze.xynote:alphabeticModifiers}</code></td><td> The alphabetic modifier key.</td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td> The alphabetic shortcut key.</td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td> Whether the item is capable of displaying a check mark.</td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td> Whether the item is checked.</td></tr>
@@ -13219,12 +13224,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td> The title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td> The condensed title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td> Whether the item is shown/visible.</td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription com.mycompany.myapp:contentDescription}</code></td><td> The content description associated with the item.</td></tr>
-           <tr><td><code>{@link #MenuItem_iconTint com.mycompany.myapp:iconTint}</code></td><td> Tint to apply to the icon.</td></tr>
-           <tr><td><code>{@link #MenuItem_iconTintMode com.mycompany.myapp:iconTintMode}</code></td><td> Blending mode used to apply the icon tint.</td></tr>
-           <tr><td><code>{@link #MenuItem_numericModifiers com.mycompany.myapp:numericModifiers}</code></td><td> The numeric modifier key.</td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.mycompany.myapp:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText com.mycompany.myapp:tooltipText}</code></td><td> The tooltip text associated with the item.</td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription com.xiaoze.xynote:contentDescription}</code></td><td> The content description associated with the item.</td></tr>
+           <tr><td><code>{@link #MenuItem_iconTint com.xiaoze.xynote:iconTint}</code></td><td> Tint to apply to the icon.</td></tr>
+           <tr><td><code>{@link #MenuItem_iconTintMode com.xiaoze.xynote:iconTintMode}</code></td><td> Blending mode used to apply the icon tint.</td></tr>
+           <tr><td><code>{@link #MenuItem_numericModifiers com.xiaoze.xynote:numericModifiers}</code></td><td> The numeric modifier key.</td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.xiaoze.xynote:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText com.xiaoze.xynote:tooltipText}</code></td><td> The tooltip text associated with the item.</td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -13269,7 +13274,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionLayout
+          @attr name com.xiaoze.xynote:actionLayout
         */
         public static final int MenuItem_actionLayout = 17;
         /**
@@ -13288,7 +13293,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionProviderClass
+          @attr name com.xiaoze.xynote:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 19;
         /**
@@ -13306,7 +13311,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:actionViewClass
+          @attr name com.xiaoze.xynote:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 18;
         /**
@@ -13330,7 +13335,7 @@ containing a value of this type.
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:alphabeticModifiers
+          @attr name com.xiaoze.xynote:alphabeticModifiers
         */
         public static final int MenuItem_alphabeticModifiers = 14;
         /**
@@ -13471,7 +13476,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentDescription
+          @attr name com.xiaoze.xynote:contentDescription
         */
         public static final int MenuItem_contentDescription = 20;
         /**
@@ -13495,7 +13500,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:iconTint
+          @attr name com.xiaoze.xynote:iconTint
         */
         public static final int MenuItem_iconTint = 13;
         /**
@@ -13523,7 +13528,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:iconTintMode
+          @attr name com.xiaoze.xynote:iconTintMode
         */
         public static final int MenuItem_iconTintMode = 22;
         /**
@@ -13547,7 +13552,7 @@ containing a value of this type.
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:numericModifiers
+          @attr name com.xiaoze.xynote:numericModifiers
         */
         public static final int MenuItem_numericModifiers = 15;
         /**
@@ -13578,7 +13583,7 @@ containing a value of this type.
                  larger segment of its container. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:showAsAction
+          @attr name com.xiaoze.xynote:showAsAction
         */
         public static final int MenuItem_showAsAction = 16;
         /**
@@ -13594,7 +13599,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:tooltipText
+          @attr name com.xiaoze.xynote:tooltipText
         */
         public static final int MenuItem_tooltipText = 21;
         /** Attributes that can be used with a MenuView.
@@ -13610,8 +13615,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td> Default appearance of menu item text.</td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td> Default vertical divider between menu items.</td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td> Default animations for the menu.</td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.mycompany.myapp:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.mycompany.myapp:subMenuArrow}</code></td><td> Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.xiaoze.xynote:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.xiaoze.xynote:subMenuArrow}</code></td><td> Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -13704,7 +13709,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:preserveIconSpacing
+          @attr name com.xiaoze.xynote:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
@@ -13716,7 +13721,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subMenuArrow
+          @attr name com.xiaoze.xynote:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -13728,15 +13733,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.mycompany.myapp:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.mycompany.myapp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.mycompany.myapp:itemHorizontalPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconPadding com.mycompany.myapp:itemIconPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.mycompany.myapp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.mycompany.myapp:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.mycompany.myapp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.mycompany.myapp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.xiaoze.xynote:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.xiaoze.xynote:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.xiaoze.xynote:itemHorizontalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconPadding com.xiaoze.xynote:itemIconPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.xiaoze.xynote:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.xiaoze.xynote:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.xiaoze.xynote:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.xiaoze.xynote:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -13789,31 +13794,31 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int NavigationView_elevation = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:headerLayout
+          @attr name com.xiaoze.xynote:headerLayout
         */
         public static final int NavigationView_headerLayout = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:itemBackground
+          @attr name com.xiaoze.xynote:itemBackground
         */
         public static final int NavigationView_itemBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemHorizontalPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemHorizontalPadding}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13825,11 +13830,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemHorizontalPadding
+          @attr name com.xiaoze.xynote:itemHorizontalPadding
         */
         public static final int NavigationView_itemHorizontalPadding = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemIconPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemIconPadding}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13841,11 +13846,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemIconPadding
+          @attr name com.xiaoze.xynote:itemIconPadding
         */
         public static final int NavigationView_itemIconPadding = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13856,21 +13861,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemIconTint
+          @attr name com.xiaoze.xynote:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:itemTextAppearance
+          @attr name com.xiaoze.xynote:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13881,17 +13886,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:itemTextColor
+          @attr name com.xiaoze.xynote:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:menu
+          @attr name com.xiaoze.xynote:menu
         */
         public static final int NavigationView_menu = 3;
         /** Attributes that can be used with a PopupWindow.
@@ -13902,7 +13907,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.mycompany.myapp:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.xiaoze.xynote:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -13936,7 +13941,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:overlapAnchor
+          @attr name com.xiaoze.xynote:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -13945,7 +13950,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.mycompany.myapp:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.xiaoze.xynote:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -13965,7 +13970,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:state_above_anchor
+          @attr name com.xiaoze.xynote:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -13974,8 +13979,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.mycompany.myapp:paddingBottomNoButtons}</code></td><td> Bottom padding to use when no buttons are present.</td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.mycompany.myapp:paddingTopNoTitle}</code></td><td> Top padding to use when no title is present.</td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.xiaoze.xynote:paddingBottomNoButtons}</code></td><td> Bottom padding to use when no buttons are present.</td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.xiaoze.xynote:paddingTopNoTitle}</code></td><td> Top padding to use when no title is present.</td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -13998,7 +14003,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:paddingBottomNoButtons
+          @attr name com.xiaoze.xynote:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
@@ -14016,7 +14021,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:paddingTopNoTitle
+          @attr name com.xiaoze.xynote:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -14027,15 +14032,15 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.mycompany.myapp:fastScrollEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.mycompany.myapp:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.mycompany.myapp:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.mycompany.myapp:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.mycompany.myapp:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.mycompany.myapp:layoutManager}</code></td><td> Class name of the Layout Manager to be used.</td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.mycompany.myapp:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.mycompany.myapp:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.mycompany.myapp:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.xiaoze.xynote:fastScrollEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.xiaoze.xynote:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.xiaoze.xynote:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.xiaoze.xynote:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.xiaoze.xynote:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.xiaoze.xynote:layoutManager}</code></td><td> Class name of the Layout Manager to be used.</td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.xiaoze.xynote:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.xiaoze.xynote:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.xiaoze.xynote:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -14067,7 +14072,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fastScrollEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fastScrollEnabled}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -14077,47 +14082,47 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:fastScrollEnabled
+          @attr name com.xiaoze.xynote:fastScrollEnabled
         */
         public static final int RecyclerView_fastScrollEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fastScrollHorizontalThumbDrawable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fastScrollHorizontalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:fastScrollHorizontalThumbDrawable
+          @attr name com.xiaoze.xynote:fastScrollHorizontalThumbDrawable
         */
         public static final int RecyclerView_fastScrollHorizontalThumbDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fastScrollHorizontalTrackDrawable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fastScrollHorizontalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:fastScrollHorizontalTrackDrawable
+          @attr name com.xiaoze.xynote:fastScrollHorizontalTrackDrawable
         */
         public static final int RecyclerView_fastScrollHorizontalTrackDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fastScrollVerticalThumbDrawable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fastScrollVerticalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:fastScrollVerticalThumbDrawable
+          @attr name com.xiaoze.xynote:fastScrollVerticalThumbDrawable
         */
         public static final int RecyclerView_fastScrollVerticalThumbDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#fastScrollVerticalTrackDrawable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#fastScrollVerticalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:fastScrollVerticalTrackDrawable
+          @attr name com.xiaoze.xynote:fastScrollVerticalTrackDrawable
         */
         public static final int RecyclerView_fastScrollVerticalTrackDrawable = 8;
         /**
@@ -14141,11 +14146,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layoutManager
+          @attr name com.xiaoze.xynote:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -14155,11 +14160,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:reverseLayout
+          @attr name com.xiaoze.xynote:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -14169,11 +14174,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:spanCount
+          @attr name com.xiaoze.xynote:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -14183,7 +14188,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:stackFromEnd
+          @attr name com.xiaoze.xynote:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -14192,7 +14197,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.mycompany.myapp:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.xiaoze.xynote:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -14200,7 +14205,7 @@ containing a value of this type.
             0x7f010096
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -14208,7 +14213,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mycompany.myapp:insetForeground
+          @attr name com.xiaoze.xynote:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -14217,7 +14222,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.mycompany.myapp:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.xiaoze.xynote:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -14225,7 +14230,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010097
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -14237,7 +14242,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:behavior_overlapTop
+          @attr name com.xiaoze.xynote:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -14250,20 +14255,20 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td> The IME options to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td> The input type to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td> An optional maximum width of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.mycompany.myapp:closeIcon}</code></td><td> Close button icon </td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.mycompany.myapp:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.mycompany.myapp:defaultQueryHint}</code></td><td> Default query hint used when {@code queryHint} is undefined and
+           <tr><td><code>{@link #SearchView_closeIcon com.xiaoze.xynote:closeIcon}</code></td><td> Close button icon </td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.xiaoze.xynote:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.xiaoze.xynote:defaultQueryHint}</code></td><td> Default query hint used when {@code queryHint} is undefined and
              the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.mycompany.myapp:goIcon}</code></td><td> Go button icon </td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.mycompany.myapp:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_layout com.mycompany.myapp:layout}</code></td><td> The layout to use for the search view.</td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.mycompany.myapp:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.mycompany.myapp:queryHint}</code></td><td> An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.mycompany.myapp:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.mycompany.myapp:searchIcon}</code></td><td> Search icon </td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.mycompany.myapp:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.mycompany.myapp:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.mycompany.myapp:voiceIcon}</code></td><td> Voice button icon </td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.xiaoze.xynote:goIcon}</code></td><td> Go button icon </td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.xiaoze.xynote:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
+           <tr><td><code>{@link #SearchView_layout com.xiaoze.xynote:layout}</code></td><td> The layout to use for the search view.</td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.xiaoze.xynote:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.xiaoze.xynote:queryHint}</code></td><td> An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.xiaoze.xynote:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.xiaoze.xynote:searchIcon}</code></td><td> Search icon </td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.xiaoze.xynote:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.xiaoze.xynote:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.xiaoze.xynote:voiceIcon}</code></td><td> Voice button icon </td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -14334,7 +14339,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:closeIcon
+          @attr name com.xiaoze.xynote:closeIcon
         */
         public static final int SearchView_closeIcon = 4;
         /**
@@ -14346,7 +14351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:commitIcon
+          @attr name com.xiaoze.xynote:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
@@ -14363,7 +14368,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:defaultQueryHint
+          @attr name com.xiaoze.xynote:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 8;
         /**
@@ -14375,7 +14380,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:goIcon
+          @attr name com.xiaoze.xynote:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
@@ -14392,7 +14397,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:iconifiedByDefault
+          @attr name com.xiaoze.xynote:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 6;
         /**
@@ -14404,7 +14409,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:layout
+          @attr name com.xiaoze.xynote:layout
         */
         public static final int SearchView_layout = 5;
         /**
@@ -14416,7 +14421,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:queryBackground
+          @attr name com.xiaoze.xynote:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
@@ -14432,7 +14437,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:queryHint
+          @attr name com.xiaoze.xynote:queryHint
         */
         public static final int SearchView_queryHint = 7;
         /**
@@ -14444,7 +14449,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:searchHintIcon
+          @attr name com.xiaoze.xynote:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
@@ -14456,7 +14461,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:searchIcon
+          @attr name com.xiaoze.xynote:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
@@ -14468,7 +14473,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:submitBackground
+          @attr name com.xiaoze.xynote:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
@@ -14480,7 +14485,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:suggestionRowLayout
+          @attr name com.xiaoze.xynote:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
@@ -14492,7 +14497,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:voiceIcon
+          @attr name com.xiaoze.xynote:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Snackbar.
@@ -14501,8 +14506,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.mycompany.myapp:snackbarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Snackbar_snackbarStyle com.mycompany.myapp:snackbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.xiaoze.xynote:snackbarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Snackbar_snackbarStyle com.xiaoze.xynote:snackbarStyle}</code></td><td></td></tr>
            </table>
            @see #Snackbar_snackbarButtonStyle
            @see #Snackbar_snackbarStyle
@@ -14511,23 +14516,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010098, 0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#snackbarButtonStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#snackbarButtonStyle}
           attribute's value can be found in the {@link #Snackbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:snackbarButtonStyle
+          @attr name com.xiaoze.xynote:snackbarButtonStyle
         */
         public static final int Snackbar_snackbarButtonStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#snackbarStyle}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#snackbarStyle}
           attribute's value can be found in the {@link #Snackbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:snackbarStyle
+          @attr name com.xiaoze.xynote:snackbarStyle
         */
         public static final int Snackbar_snackbarStyle = 0;
         /** Attributes that can be used with a SnackbarLayout.
@@ -14537,8 +14542,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.mycompany.myapp:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.mycompany.myapp:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.xiaoze.xynote:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.xiaoze.xynote:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -14568,11 +14573,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:elevation
+          @attr name com.xiaoze.xynote:elevation
         */
         public static final int SnackbarLayout_elevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -14584,7 +14589,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:maxActionInlineWidth
+          @attr name com.xiaoze.xynote:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 1;
         /** Attributes that can be used with a Spinner.
@@ -14597,7 +14602,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td> Reference to an array resource that will populate the Spinner.</td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td> Background drawable to use for the dropdown in spinnerMode="dropdown".</td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.mycompany.myapp:popupTheme}</code></td><td> Theme to use for the drop-down or dialog popup window.</td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.xiaoze.xynote:popupTheme}</code></td><td> Theme to use for the drop-down or dialog popup window.</td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -14654,7 +14659,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:popupTheme
+          @attr name com.xiaoze.xynote:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /**  Indicates if the drawable needs to be mirrored when its layout direction is
@@ -14784,17 +14789,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td> Text to use when the switch is in the unchecked/"off" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td> Text to use when the switch is in the checked/"on" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td> Drawable to use as the "thumb" that switches back and forth.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.mycompany.myapp:showText}</code></td><td> Whether to draw on/off text.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.mycompany.myapp:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.mycompany.myapp:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.mycompany.myapp:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.mycompany.myapp:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.mycompany.myapp:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.mycompany.myapp:thumbTint}</code></td><td> Tint to apply to the thumb drawable.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.mycompany.myapp:thumbTintMode}</code></td><td> Blending mode used to apply the thumb tint.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.mycompany.myapp:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.mycompany.myapp:trackTint}</code></td><td> Tint to apply to the track.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.mycompany.myapp:trackTintMode}</code></td><td> Blending mode used to apply the track tint.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.xiaoze.xynote:showText}</code></td><td> Whether to draw on/off text.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.xiaoze.xynote:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.xiaoze.xynote:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.xiaoze.xynote:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.xiaoze.xynote:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.xiaoze.xynote:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.xiaoze.xynote:thumbTint}</code></td><td> Tint to apply to the thumb drawable.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.xiaoze.xynote:thumbTintMode}</code></td><td> Blending mode used to apply the thumb tint.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.xiaoze.xynote:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.xiaoze.xynote:trackTint}</code></td><td> Tint to apply to the track.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.xiaoze.xynote:trackTintMode}</code></td><td> Blending mode used to apply the track tint.</td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -14857,7 +14862,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:showText
+          @attr name com.xiaoze.xynote:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
@@ -14873,7 +14878,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:splitTrack
+          @attr name com.xiaoze.xynote:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
@@ -14891,7 +14896,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:switchMinWidth
+          @attr name com.xiaoze.xynote:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
@@ -14909,7 +14914,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:switchPadding
+          @attr name com.xiaoze.xynote:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
@@ -14921,7 +14926,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:switchTextAppearance
+          @attr name com.xiaoze.xynote:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
@@ -14939,7 +14944,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:thumbTextPadding
+          @attr name com.xiaoze.xynote:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
@@ -14956,7 +14961,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:thumbTint
+          @attr name com.xiaoze.xynote:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
@@ -14984,7 +14989,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:thumbTintMode
+          @attr name com.xiaoze.xynote:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
@@ -14996,7 +15001,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:track
+          @attr name com.xiaoze.xynote:track
         */
         public static final int SwitchCompat_track = 5;
         /**
@@ -15013,7 +15018,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:trackTint
+          @attr name com.xiaoze.xynote:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
@@ -15041,7 +15046,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:trackTintMode
+          @attr name com.xiaoze.xynote:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -15085,31 +15090,31 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.mycompany.myapp:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.mycompany.myapp:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.mycompany.myapp:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIconTint com.mycompany.myapp:tabIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIconTintMode com.mycompany.myapp:tabIconTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicator com.mycompany.myapp:tabIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.mycompany.myapp:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.mycompany.myapp:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.mycompany.myapp:tabIndicatorFullWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.mycompany.myapp:tabIndicatorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.mycompany.myapp:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabInlineLabel com.mycompany.myapp:tabInlineLabel}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.mycompany.myapp:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.mycompany.myapp:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.mycompany.myapp:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.mycompany.myapp:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.mycompany.myapp:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.mycompany.myapp:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.mycompany.myapp:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.mycompany.myapp:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabRippleColor com.mycompany.myapp:tabRippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.mycompany.myapp:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.mycompany.myapp:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.mycompany.myapp:tabTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.mycompany.myapp:tabUnboundedRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.xiaoze.xynote:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.xiaoze.xynote:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.xiaoze.xynote:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIconTint com.xiaoze.xynote:tabIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIconTintMode com.xiaoze.xynote:tabIconTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicator com.xiaoze.xynote:tabIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.xiaoze.xynote:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.xiaoze.xynote:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.xiaoze.xynote:tabIndicatorFullWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.xiaoze.xynote:tabIndicatorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.xiaoze.xynote:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabInlineLabel com.xiaoze.xynote:tabInlineLabel}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.xiaoze.xynote:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.xiaoze.xynote:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.xiaoze.xynote:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.xiaoze.xynote:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.xiaoze.xynote:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.xiaoze.xynote:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.xiaoze.xynote:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.xiaoze.xynote:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabRippleColor com.xiaoze.xynote:tabRippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.xiaoze.xynote:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.xiaoze.xynote:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.xiaoze.xynote:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.xiaoze.xynote:tabUnboundedRipple}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -15147,17 +15152,17 @@ containing a value of this type.
             0x7f0100b3
         };
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:tabBackground
+          @attr name com.xiaoze.xynote:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15169,11 +15174,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabContentStart
+          @attr name com.xiaoze.xynote:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15186,11 +15191,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:tabGravity
+          @attr name com.xiaoze.xynote:tabGravity
         */
         public static final int TabLayout_tabGravity = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIconTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIconTint}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15201,11 +15206,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabIconTint
+          @attr name com.xiaoze.xynote:tabIconTint
         */
         public static final int TabLayout_tabIconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIconTintMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIconTintMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15222,21 +15227,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:tabIconTintMode
+          @attr name com.xiaoze.xynote:tabIconTintMode
         */
         public static final int TabLayout_tabIconTintMode = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicator}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicator}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:tabIndicator
+          @attr name com.xiaoze.xynote:tabIndicator
         */
         public static final int TabLayout_tabIndicator = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicatorAnimationDuration}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicatorAnimationDuration}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15246,11 +15251,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabIndicatorAnimationDuration
+          @attr name com.xiaoze.xynote:tabIndicatorAnimationDuration
         */
         public static final int TabLayout_tabIndicatorAnimationDuration = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15261,11 +15266,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabIndicatorColor
+          @attr name com.xiaoze.xynote:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicatorFullWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicatorFullWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15275,11 +15280,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabIndicatorFullWidth
+          @attr name com.xiaoze.xynote:tabIndicatorFullWidth
         */
         public static final int TabLayout_tabIndicatorFullWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicatorGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicatorGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15294,11 +15299,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 <tr><td><code>stretch</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:tabIndicatorGravity
+          @attr name com.xiaoze.xynote:tabIndicatorGravity
         */
         public static final int TabLayout_tabIndicatorGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15310,11 +15315,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabIndicatorHeight
+          @attr name com.xiaoze.xynote:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabInlineLabel}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabInlineLabel}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15324,11 +15329,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabInlineLabel
+          @attr name com.xiaoze.xynote:tabInlineLabel
         */
         public static final int TabLayout_tabInlineLabel = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15340,11 +15345,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabMaxWidth
+          @attr name com.xiaoze.xynote:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15356,11 +15361,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabMinWidth
+          @attr name com.xiaoze.xynote:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15373,11 +15378,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:tabMode
+          @attr name com.xiaoze.xynote:tabMode
         */
         public static final int TabLayout_tabMode = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15389,11 +15394,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabPadding
+          @attr name com.xiaoze.xynote:tabPadding
         */
         public static final int TabLayout_tabPadding = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15405,11 +15410,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabPaddingBottom
+          @attr name com.xiaoze.xynote:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15421,11 +15426,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabPaddingEnd
+          @attr name com.xiaoze.xynote:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15437,11 +15442,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabPaddingStart
+          @attr name com.xiaoze.xynote:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15453,11 +15458,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabPaddingTop
+          @attr name com.xiaoze.xynote:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabRippleColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabRippleColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15468,11 +15473,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabRippleColor
+          @attr name com.xiaoze.xynote:tabRippleColor
         */
         public static final int TabLayout_tabRippleColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15483,21 +15488,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabSelectedTextColor
+          @attr name com.xiaoze.xynote:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:tabTextAppearance
+          @attr name com.xiaoze.xynote:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15508,11 +15513,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabTextColor
+          @attr name com.xiaoze.xynote:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#tabUnboundedRipple}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#tabUnboundedRipple}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -15522,7 +15527,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:tabUnboundedRipple
+          @attr name com.xiaoze.xynote:tabUnboundedRipple
         */
         public static final int TabLayout_tabUnboundedRipple = 24;
         /** Attributes that can be used with a TextAppearance.
@@ -15542,8 +15547,8 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_fontFamily com.mycompany.myapp:fontFamily}</code></td><td> The attribute for the font family.</td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.mycompany.myapp:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #TextAppearance_fontFamily com.xiaoze.xynote:fontFamily}</code></td><td> The attribute for the font family.</td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.xiaoze.xynote:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #TextAppearance_android_fontFamily
            @see #TextAppearance_android_shadowColor
@@ -15644,7 +15649,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:fontFamily
+          @attr name com.xiaoze.xynote:fontFamily
         */
         public static final int TextAppearance_fontFamily = 12;
         /**
@@ -15657,7 +15662,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:textAllCaps
+          @attr name com.xiaoze.xynote:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 11;
         /** Attributes that can be used with a TextInputLayout.
@@ -15668,32 +15673,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.mycompany.myapp:boxBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.mycompany.myapp:boxBackgroundMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.mycompany.myapp:boxCollapsedPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.mycompany.myapp:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.mycompany.myapp:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.mycompany.myapp:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.mycompany.myapp:boxCornerRadiusTopStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.mycompany.myapp:boxStrokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.mycompany.myapp:boxStrokeWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.mycompany.myapp:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.mycompany.myapp:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.mycompany.myapp:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.mycompany.myapp:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.mycompany.myapp:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.mycompany.myapp:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_helperText com.mycompany.myapp:helperText}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.mycompany.myapp:helperTextEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.mycompany.myapp:helperTextTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.mycompany.myapp:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.mycompany.myapp:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.mycompany.myapp:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.mycompany.myapp:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.mycompany.myapp:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.mycompany.myapp:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.mycompany.myapp:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.mycompany.myapp:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.xiaoze.xynote:boxBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.xiaoze.xynote:boxBackgroundMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.xiaoze.xynote:boxCollapsedPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.xiaoze.xynote:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.xiaoze.xynote:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.xiaoze.xynote:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.xiaoze.xynote:boxCornerRadiusTopStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.xiaoze.xynote:boxStrokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.xiaoze.xynote:boxStrokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.xiaoze.xynote:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.xiaoze.xynote:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.xiaoze.xynote:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.xiaoze.xynote:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.xiaoze.xynote:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.xiaoze.xynote:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_helperText com.xiaoze.xynote:helperText}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.xiaoze.xynote:helperTextEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.xiaoze.xynote:helperTextTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.xiaoze.xynote:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.xiaoze.xynote:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.xiaoze.xynote:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.xiaoze.xynote:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.xiaoze.xynote:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.xiaoze.xynote:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.xiaoze.xynote:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.xiaoze.xynote:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -15746,7 +15751,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxBackgroundColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxBackgroundColor}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15757,11 +15762,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxBackgroundColor
+          @attr name com.xiaoze.xynote:boxBackgroundColor
         */
         public static final int TextInputLayout_boxBackgroundColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxBackgroundMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxBackgroundMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15775,11 +15780,11 @@ containing a value of this type.
 <tr><td><code>filled</code></td><td>1</td><td></td></tr>
 <tr><td><code>outline</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:boxBackgroundMode
+          @attr name com.xiaoze.xynote:boxBackgroundMode
         */
         public static final int TextInputLayout_boxBackgroundMode = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxCollapsedPaddingTop}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxCollapsedPaddingTop}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15791,11 +15796,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxCollapsedPaddingTop
+          @attr name com.xiaoze.xynote:boxCollapsedPaddingTop
         */
         public static final int TextInputLayout_boxCollapsedPaddingTop = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxCornerRadiusBottomEnd}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxCornerRadiusBottomEnd}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15807,11 +15812,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxCornerRadiusBottomEnd
+          @attr name com.xiaoze.xynote:boxCornerRadiusBottomEnd
         */
         public static final int TextInputLayout_boxCornerRadiusBottomEnd = 24;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxCornerRadiusBottomStart}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxCornerRadiusBottomStart}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15823,11 +15828,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxCornerRadiusBottomStart
+          @attr name com.xiaoze.xynote:boxCornerRadiusBottomStart
         */
         public static final int TextInputLayout_boxCornerRadiusBottomStart = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxCornerRadiusTopEnd}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxCornerRadiusTopEnd}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15839,11 +15844,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxCornerRadiusTopEnd
+          @attr name com.xiaoze.xynote:boxCornerRadiusTopEnd
         */
         public static final int TextInputLayout_boxCornerRadiusTopEnd = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxCornerRadiusTopStart}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxCornerRadiusTopStart}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15855,11 +15860,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxCornerRadiusTopStart
+          @attr name com.xiaoze.xynote:boxCornerRadiusTopStart
         */
         public static final int TextInputLayout_boxCornerRadiusTopStart = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxStrokeColor}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxStrokeColor}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15870,11 +15875,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxStrokeColor
+          @attr name com.xiaoze.xynote:boxStrokeColor
         */
         public static final int TextInputLayout_boxStrokeColor = 25;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#boxStrokeWidth}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#boxStrokeWidth}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15886,11 +15891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:boxStrokeWidth
+          @attr name com.xiaoze.xynote:boxStrokeWidth
         */
         public static final int TextInputLayout_boxStrokeWidth = 27;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15900,11 +15905,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:counterEnabled
+          @attr name com.xiaoze.xynote:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15914,31 +15919,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:counterMaxLength
+          @attr name com.xiaoze.xynote:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:counterOverflowTextAppearance
+          @attr name com.xiaoze.xynote:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:counterTextAppearance
+          @attr name com.xiaoze.xynote:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15948,21 +15953,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:errorEnabled
+          @attr name com.xiaoze.xynote:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:errorTextAppearance
+          @attr name com.xiaoze.xynote:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#helperText}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#helperText}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15972,11 +15977,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:helperText
+          @attr name com.xiaoze.xynote:helperText
         */
         public static final int TextInputLayout_helperText = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#helperTextEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#helperTextEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15986,21 +15991,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:helperTextEnabled
+          @attr name com.xiaoze.xynote:helperTextEnabled
         */
         public static final int TextInputLayout_helperTextEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#helperTextTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#helperTextTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:helperTextTextAppearance
+          @attr name com.xiaoze.xynote:helperTextTextAppearance
         */
         public static final int TextInputLayout_helperTextTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16010,11 +16015,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:hintAnimationEnabled
+          @attr name com.xiaoze.xynote:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16024,21 +16029,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:hintEnabled
+          @attr name com.xiaoze.xynote:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:hintTextAppearance
+          @attr name com.xiaoze.xynote:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16048,21 +16053,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:passwordToggleContentDescription
+          @attr name com.xiaoze.xynote:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:passwordToggleDrawable
+          @attr name com.xiaoze.xynote:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16072,11 +16077,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:passwordToggleEnabled
+          @attr name com.xiaoze.xynote:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16087,11 +16092,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:passwordToggleTint
+          @attr name com.xiaoze.xynote:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -16107,7 +16112,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.mycompany.myapp:passwordToggleTintMode
+          @attr name com.xiaoze.xynote:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 18;
         /** Attributes that can be used with a ThemeEnforcement.
@@ -16117,8 +16122,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.mycompany.myapp:enforceMaterialTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.mycompany.myapp:enforceTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.xiaoze.xynote:enforceMaterialTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.xiaoze.xynote:enforceTextAppearance}</code></td><td></td></tr>
            </table>
            @see #ThemeEnforcement_android_textAppearance
            @see #ThemeEnforcement_enforceMaterialTheme
@@ -16134,7 +16139,7 @@ containing a value of this type.
         */
         public static final int ThemeEnforcement_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#enforceMaterialTheme}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#enforceMaterialTheme}
           attribute's value can be found in the {@link #ThemeEnforcement} array.
 
 
@@ -16144,11 +16149,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:enforceMaterialTheme
+          @attr name com.xiaoze.xynote:enforceMaterialTheme
         */
         public static final int ThemeEnforcement_enforceMaterialTheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#enforceTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#enforceTextAppearance}
           attribute's value can be found in the {@link #ThemeEnforcement} array.
 
 
@@ -16158,7 +16163,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:enforceTextAppearance
+          @attr name com.xiaoze.xynote:enforceTextAppearance
         */
         public static final int ThemeEnforcement_enforceTextAppearance = 2;
         /** Attributes that can be used with a Toolbar.
@@ -16169,41 +16174,41 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.mycompany.myapp:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.mycompany.myapp:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.mycompany.myapp:collapseIcon}</code></td><td> Icon drawable to use for the collapse button.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.mycompany.myapp:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.mycompany.myapp:contentInsetEndWithActions}</code></td><td> Minimum inset for content views within a bar when actions from a menu
+           <tr><td><code>{@link #Toolbar_buttonGravity com.xiaoze.xynote:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.xiaoze.xynote:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.xiaoze.xynote:collapseIcon}</code></td><td> Icon drawable to use for the collapse button.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.xiaoze.xynote:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.xiaoze.xynote:contentInsetEndWithActions}</code></td><td> Minimum inset for content views within a bar when actions from a menu
              are present.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.mycompany.myapp:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.mycompany.myapp:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.mycompany.myapp:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.mycompany.myapp:contentInsetStartWithNavigation}</code></td><td> Minimum inset for content views within a bar when a navigation button
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.xiaoze.xynote:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.xiaoze.xynote:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.xiaoze.xynote:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.xiaoze.xynote:contentInsetStartWithNavigation}</code></td><td> Minimum inset for content views within a bar when a navigation button
              is present, such as the Up button.</td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.mycompany.myapp:logo}</code></td><td> Drawable to set as the logo that appears at the starting side of
+           <tr><td><code>{@link #Toolbar_logo com.xiaoze.xynote:logo}</code></td><td> Drawable to set as the logo that appears at the starting side of
              the Toolbar, just after the navigation button.</td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.mycompany.myapp:logoDescription}</code></td><td> A content description string to describe the appearance of the
+           <tr><td><code>{@link #Toolbar_logoDescription com.xiaoze.xynote:logoDescription}</code></td><td> A content description string to describe the appearance of the
              associated logo image.</td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.mycompany.myapp:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.mycompany.myapp:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.xiaoze.xynote:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.xiaoze.xynote:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
              located at the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.mycompany.myapp:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
+           <tr><td><code>{@link #Toolbar_navigationIcon com.xiaoze.xynote:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
              the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.mycompany.myapp:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #Toolbar_popupTheme com.xiaoze.xynote:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.mycompany.myapp:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.mycompany.myapp:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.mycompany.myapp:subtitleTextColor}</code></td><td> A color to apply to the subtitle string.</td></tr>
-           <tr><td><code>{@link #Toolbar_title com.mycompany.myapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.mycompany.myapp:titleMargin}</code></td><td>  Specifies extra space on the left, start, right and end sides
+           <tr><td><code>{@link #Toolbar_subtitle com.xiaoze.xynote:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.xiaoze.xynote:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.xiaoze.xynote:subtitleTextColor}</code></td><td> A color to apply to the subtitle string.</td></tr>
+           <tr><td><code>{@link #Toolbar_title com.xiaoze.xynote:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.xiaoze.xynote:titleMargin}</code></td><td>  Specifies extra space on the left, start, right and end sides
               of the toolbar's title.</td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.mycompany.myapp:titleMarginBottom}</code></td><td>  Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.mycompany.myapp:titleMarginEnd}</code></td><td>  Specifies extra space on the end side of the toolbar's title.</td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.mycompany.myapp:titleMarginStart}</code></td><td>  Specifies extra space on the start side of the toolbar's title.</td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.mycompany.myapp:titleMarginTop}</code></td><td>  Specifies extra space on the top side of the toolbar's title.</td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.mycompany.myapp:titleMargins}</code></td><td> {@deprecated Use titleMargin} </td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.mycompany.myapp:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.mycompany.myapp:titleTextColor}</code></td><td> A color to apply to the title string.</td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.xiaoze.xynote:titleMarginBottom}</code></td><td>  Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.xiaoze.xynote:titleMarginEnd}</code></td><td>  Specifies extra space on the end side of the toolbar's title.</td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.xiaoze.xynote:titleMarginStart}</code></td><td>  Specifies extra space on the start side of the toolbar's title.</td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.xiaoze.xynote:titleMarginTop}</code></td><td>  Specifies extra space on the top side of the toolbar's title.</td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.xiaoze.xynote:titleMargins}</code></td><td> {@deprecated Use titleMargin} </td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.xiaoze.xynote:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.xiaoze.xynote:titleTextColor}</code></td><td> A color to apply to the title string.</td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -16258,7 +16263,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16271,7 +16276,7 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td> Push object to the top of its container, not changing its size. </td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td> Push object to the bottom of its container, not changing its size. </td></tr>
 </table>
-          @attr name com.mycompany.myapp:buttonGravity
+          @attr name com.xiaoze.xynote:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
@@ -16287,7 +16292,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:collapseContentDescription
+          @attr name com.xiaoze.xynote:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
@@ -16299,7 +16304,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:collapseIcon
+          @attr name com.xiaoze.xynote:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
@@ -16318,7 +16323,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetEnd
+          @attr name com.xiaoze.xynote:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
@@ -16337,7 +16342,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetEndWithActions
+          @attr name com.xiaoze.xynote:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
@@ -16356,7 +16361,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetLeft
+          @attr name com.xiaoze.xynote:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
@@ -16375,7 +16380,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetRight
+          @attr name com.xiaoze.xynote:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
@@ -16394,7 +16399,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetStart
+          @attr name com.xiaoze.xynote:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
@@ -16413,7 +16418,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:contentInsetStartWithNavigation
+          @attr name com.xiaoze.xynote:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
@@ -16426,7 +16431,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:logo
+          @attr name com.xiaoze.xynote:logo
         */
         public static final int Toolbar_logo = 4;
         /**
@@ -16443,11 +16448,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:logoDescription
+          @attr name com.xiaoze.xynote:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16459,7 +16464,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:maxButtonHeight
+          @attr name com.xiaoze.xynote:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
@@ -16476,7 +16481,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:navigationContentDescription
+          @attr name com.xiaoze.xynote:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
@@ -16489,7 +16494,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:navigationIcon
+          @attr name com.xiaoze.xynote:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
@@ -16502,7 +16507,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:popupTheme
+          @attr name com.xiaoze.xynote:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
@@ -16518,17 +16523,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subtitle
+          @attr name com.xiaoze.xynote:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:subtitleTextAppearance
+          @attr name com.xiaoze.xynote:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
@@ -16545,11 +16550,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:subtitleTextColor
+          @attr name com.xiaoze.xynote:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#title}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16559,7 +16564,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mycompany.myapp:title
+          @attr name com.xiaoze.xynote:title
         */
         public static final int Toolbar_title = 2;
         /**
@@ -16578,7 +16583,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMargin
+          @attr name com.xiaoze.xynote:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
@@ -16598,7 +16603,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMarginBottom
+          @attr name com.xiaoze.xynote:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
@@ -16618,7 +16623,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMarginEnd
+          @attr name com.xiaoze.xynote:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
@@ -16638,7 +16643,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMarginStart
+          @attr name com.xiaoze.xynote:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
@@ -16658,7 +16663,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMarginTop
+          @attr name com.xiaoze.xynote:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
@@ -16676,18 +16681,18 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleMargins
+          @attr name com.xiaoze.xynote:titleMargins
         */
         @Deprecated
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mycompany.myapp.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.xiaoze.xynote.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mycompany.myapp:titleTextAppearance
+          @attr name com.xiaoze.xynote:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
@@ -16704,7 +16709,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:titleTextColor
+          @attr name com.xiaoze.xynote:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -16715,9 +16720,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td> Boolean that controls whether a view can take focus.</td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td> Specifies a theme override for a view.</td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.mycompany.myapp:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_paddingStart com.mycompany.myapp:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_theme com.mycompany.myapp:theme}</code></td><td> Deprecated.</td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.xiaoze.xynote:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_paddingStart com.xiaoze.xynote:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_theme com.xiaoze.xynote:theme}</code></td><td> Deprecated.</td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -16769,7 +16774,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:paddingEnd
+          @attr name com.xiaoze.xynote:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
@@ -16787,7 +16792,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:paddingStart
+          @attr name com.xiaoze.xynote:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
@@ -16799,7 +16804,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:theme
+          @attr name com.xiaoze.xynote:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -16809,8 +16814,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.mycompany.myapp:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.mycompany.myapp:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.xiaoze.xynote:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.xiaoze.xynote:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -16839,7 +16844,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTint
+          @attr name com.xiaoze.xynote:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
@@ -16867,7 +16872,7 @@ containing a value of this type.
                  result to valid color values. Saturate(S + D) </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.mycompany.myapp:backgroundTintMode
+          @attr name com.xiaoze.xynote:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

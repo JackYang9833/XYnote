@@ -1,4 +1,4 @@
-package com.mycompany.myapp;
+package com.xiaoze.xynote;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
