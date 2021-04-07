@@ -4643,6 +4643,10 @@ containing a value of this type.
         public static final int image=0x7f09006e;
         public static final int info=0x7f0900b0;
         public static final int italic=0x7f090051;
+        public static final int item1=0x7f0900ba;
+        public static final int item2=0x7f0900bb;
+        public static final int item3=0x7f0900bd;
+        public static final int item4=0x7f0900be;
         public static final int item_touch_helper_previous_elevation=0x7f090000;
         public static final int labeled=0x7f09002d;
         public static final int largeLabel=0x7f09009f;
@@ -4749,6 +4753,7 @@ containing a value of this type.
         public static final int visible=0x7f0900b8;
         public static final int withText=0x7f090068;
         public static final int wrap_content=0x7f09005b;
+        public static final int xx=0x7f0900bc;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0c000b;
@@ -4829,6 +4834,9 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040034;
         public static final int select_dialog_singlechoice_material=0x7f040035;
         public static final int support_simple_spinner_dropdown_item=0x7f040036;
+    }
+    public static final class menu {
+        public static final int btm_nav=0x7f0f0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
